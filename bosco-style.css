@@ -70,3 +70,10 @@ h3 {
   padding-top: 1px;
   padding-bottom: 1px;
 }
+
+.bottom { 
+  position: absolute;     
+  text-align: right;    
+  bottom: 0px; 
+  width: 100%;
+}  
