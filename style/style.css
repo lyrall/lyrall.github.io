@@ -8,13 +8,15 @@ p {
 }
 
 h1 {
+  color: #C669D0;
   font-weight: bold;
   font-family: monospace;
-  color: #C669D0;
 }
 
 a {
-  color: #C669D0;  
+  color: #C669D0;
+  font-weight: bold;
+  font-family: monospace;
 }
 
 .button {
@@ -27,5 +29,5 @@ a {
   font-family: monospace;
   font-weight: bold;
   cursor: pointer;
-  object-align: center;
+  margin: auto;
 }
