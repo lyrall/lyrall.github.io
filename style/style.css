@@ -1,9 +1,31 @@
 body {
-  background: white;
+  background: #ffffff;
 }
+
 p {
-  color: black;
+  color: #C669D0;
+  font-family: monospace;
 }
+
 h1 {
   font-weight: bold;
+  font-family: monospace;
+  color: #C669D0;
+}
+
+a {
+  color: #C669D0;  
+}
+
+.button {
+  background-color: #FC98FF;
+  border: none;
+  color: #C669D0;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 16px;
+  font-family: monospace;
+  font-weight: bold;
+  cursor: pointer;
+  object-align: center;
 }
