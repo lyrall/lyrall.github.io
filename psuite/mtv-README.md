@@ -2,7 +2,8 @@
 
 ## Required Reading
 
-- Please read the Internet Privacy & Safety Guide before using this guide.
+- Please read the [Internet Privacy & Safety Guide](ips-README.md) before using this guide.
+- It is not necessary, but if you are particurally tech illiterate, I recommend you also read my [Basic Pirate Literacy Guide](bpl-guide.md).
 
 ## Streaming
 
@@ -14,3 +15,7 @@ For the masses, the most appealing method of pirating movies and TV is streaming
 ### On Demand Streaming
 - https://soap2day.to
 - https://onionplay.co/
+
+## Direct Download
+
+I am praying that because of the many times I 
