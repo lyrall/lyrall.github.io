@@ -6,7 +6,7 @@
 
 ## Streaming
 
-For the masses, the most appealing method of pirating movies and TV is streaming. It's easier, and doesn't take up the storage space and time that downloads do. Most sites that advertise themselves as pirate streaming sites are illegitimate, and are trying to scam you into downloading malware or giving them your bank credentials. I have waded through the gargabe and offer to you what I currently know as the best pirate streaming sites. 
+For the masses, the most appealing method of pirating movies and TV is streaming. It's easier, and doesn't take up the storage space and time that downloads do. Most sites that advertise themselves as pirate streaming sites are illegitimate, and are trying to scam you into downloading malware or giving them your bank credentials. I have waded through the garbage and offer to you what I currently know as the best pirate streaming sites. Still, PLEASE use an ad blocker, and check out my [IPS Guide]("psuite/ips-README.md") for my recommendation. 
 
 ### Live TV
 - https://ustv247.tv/
