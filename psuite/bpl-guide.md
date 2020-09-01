@@ -22,9 +22,9 @@ As you can observe from these examples, a file extention always starts with a ``
 
 ### Show File Extensions
 
-By default, Windows' File Explorer does not show users the file extensions of files. To enable this:
+By default, Windows' File Explorer does not display file extensions. To enable this:
 
-1. Open File Explorer
+1. Open File Explorer.
 2. Click the ```View``` tab at the top.
 3. Check the box next to ```Show file extensions```.
 
