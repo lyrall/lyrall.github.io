@@ -76,7 +76,7 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
-Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. 
+Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [IPS Guide](ips-guide.md) for more info about VPNs and my recommendations/warnings concerning them.
 
 
 
