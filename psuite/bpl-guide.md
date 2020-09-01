@@ -44,6 +44,10 @@ Common Types of Zip Folder | Source
 
 
 
+## IP Address
+
+An IP address is very similar to a regular postal address. While a postal address labels where a location is in the world, an IP address labels "where" a computer is on the internet. It is a means by which computers identify and communicate with one another. An example of what an IP Address looks like is ```216.3. 128.12```, or ```209.43.71.34```. 
+
 ## File Hosters
 
 File hosters have many names, such as cloud service, cloud, cloud hoster, file sharer, file sharing site, P2P site, etc. Any variation of these things is referring to the same thing, a service that stores files on their own computers, that can be accessed from anywhere. Because these file hosters allow users to not only store, but share files with others, they are used to by pirates to share content. The most well known example is Google Drive, other contendors being Onedrive, Box, Dropbox, Mediafire, etc. 
@@ -72,6 +76,7 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
+Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. 
 
 
 
