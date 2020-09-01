@@ -1,8 +1,8 @@
 # AnotherPiracyGuide
 
-A guide to digital piracy for the novice. [[Git Mirror]]()
+A guide to digital piracy for the novice. 
 
-Written by arokai on snahp, written for the snahp.it forum. Feel free to message me with questions or if information here can be improved/corrected. When I began pirating, my only way was through the snahp forum. I didn't understand where uploaders found their content. Those currently in the same position are the target audience of this guide. There are countless ways to pirate, this is just a sample for beginners. 
+Written for the snahp.it forum. Feel free to message me with questions or if information here can be improved/corrected. When I began pirating, my only way was through the snahp forum. I didn't understand where uploaders found their content. Those currently in the same position are the target audience of this guide. There are countless ways to pirate, this is just a sample for beginners. 
 
 ## Important Notes
 
