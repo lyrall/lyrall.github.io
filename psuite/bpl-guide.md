@@ -29,8 +29,10 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
     - Upon launching MegaDownloader for the first time, a settings menu will pop up. Click cancel in the lower right corner, as the default settings do not need to be touched.
 3. Click the ```+``` button.
 4. Paste the mega link into the box by pressing ```ctrl + v```.
-5. I recommend checking the box next to ```Create directory```, so your download(s) don't get mixed with other files.
-6. 
+    - You can add multiple links at once, just press ```Enter``` on your keyboard and paste again.
+5. Click ```Browse``` and select where on your computer you want to place your downloads
+6. ```Start download``` and ```Create directory``` are enabled by default. I recommend keeping it that way.
+7. Click ```Add links```
 
 ## File Extensions
 
@@ -45,15 +47,15 @@ As you can observe from these examples, a file extention always starts with a ``
 
 ## Zip Folders
 
-You will encounter zip folders A LOT as a pirate. File archiving, or "zipping" is when a group of files is compressed into a single file, so that they can be stored and transferred as one. File systems treat zip folders as singular files despite their name, until they are unzipped and the contained files are seperated again.
+You will encounter zip folders A LOT as a pirate. File archiving, or "zipping" is when a group of files is compressed into a single file, so that they can be stored and transferred as one. File systems treat zip folders as singular files, despite their name. That is, until they are unzipped and the contained files are seperated again.
 
 The common types of zip folders can be indentified by their file extension.
 
-Common Types of Zip Folder |
-----------------------|
-.zip |
-.rar |
-.7z |
+Common Types of Zip Folder | Source
+----------------------|------
+.zip | Default on Most Operating Systems
+.rar | Created by WinRAR
+.7z | Free and Open Source
 
 ### 7zip
 
