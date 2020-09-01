@@ -18,7 +18,7 @@ File hosters have many names, such as cloud service, cloud, cloud hoster, file s
 
 A mega link, or link key, is a url that contains the key for a file or folder stored on MEGA. 
 
-An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ```
+An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ``` 
 
 #### Megadownloader
 
@@ -27,7 +27,9 @@ Megadownloader is a download manager for MEGA. It is generally faster than downl
 1. Download [Megadownloader](), you can place it anywhere on your computer.
 2. Launch ```Megadownloader.exe```.
 3. Click the ```+``` button.
-4. Paste the 
+4. Paste the mega link into the box by pressing ```ctrl + v```.
+5. I recommend checking the box next to ```Create directory```, so your download(s) don't get mixed with other files.
+6. 
 
 ## File Extensions
 
@@ -40,6 +42,30 @@ august.taylorswift | august.taylorswift.flac
 
 As you can observe from these examples, a file extention always starts with a ```.```, and the example file extensions are ```.mkv ``` and ```.flac```. The presence of a ```.``` earlier in the file name, like in the second example, does not effect the file extension. 
 
-## File Archives
+## Zip Folders
+
+You will encounter zip folders A LOT as a pirate. File archiving, or "zipping" is when a group of files is compressed into a single file, so that they can be stored and transferred as one. File systems treat zip folders as singular files despite their name, until they are unzipped and the contained files are seperated again.
+
+The common types of zip folders can be indentified by their file extension.
+
+Common Types of Zip Folder |
+----------------------|
+.zip |
+.rar |
+.7z |
 
 ### 7zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
