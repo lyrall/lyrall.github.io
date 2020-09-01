@@ -1,6 +1,12 @@
-# BasicPirate Literacy
+# Basic Pirate Literacy
 
 This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. 
+
+## Extended Resources
+
+What I offer here should give a basic understanding of how to access whatever content a pirate wants. For those comfortable with everything I describe across these guides, I recommend checking out these comprehensive lists of pirate resources:
+    - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
+    - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
 
 ## File Hosters
 
