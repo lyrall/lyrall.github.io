@@ -16,7 +16,9 @@ File hosters have many names, such as cloud service, cloud, cloud hoster, file s
 
 [MEGA](https://mega.nz) is the most popular file hoster among more experienced pirates. This is becaue of MEGA's end to end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
 
-A mega link, or link key, is a url 
+A mega link, or link key, is a url that contains the key for a file or folder stored on MEGA. 
+
+An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ```
 
 #### Megadownloader
 
