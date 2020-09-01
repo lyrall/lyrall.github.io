@@ -20,12 +20,13 @@ A mega link, or link key, is a url that contains the key for a file or folder st
 
 An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ``` 
 
-#### Megadownloader
+#### MegaDownloader
 
-Megadownloader is a download manager for MEGA. It is generally faster than downloading in-browser, and allows you to easily bypass download restrictions. Use is simple:
+MegaDownloader is a download manager for MEGA. It is generally faster than downloading in-browser, and allows you to easily bypass download restrictions. Use is simple:
 
-1. Download [Megadownloader](), you can place it anywhere on your computer.
-2. Launch ```Megadownloader.exe```.
+1. Download [MegaDownloader](), you can place it anywhere on your computer.
+2. Launch ```MegaDownloader.exe```.
+    - Upon launching MegaDownloader for the first time, a settings menu will pop up. Click cancel in the lower right corner, as the default settings do not need to be touched.
 3. Click the ```+``` button.
 4. Paste the mega link into the box by pressing ```ctrl + v```.
 5. I recommend checking the box next to ```Create directory```, so your download(s) don't get mixed with other files.
