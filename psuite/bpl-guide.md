@@ -1,4 +1,4 @@
-#BasicPirate Literacy
+# BasicPirate Literacy
 
 This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. 
 
