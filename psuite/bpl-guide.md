@@ -2,11 +2,12 @@
 
 This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. I'll explain terminology, file management, and transferable pirate skills. 
 
-## Extended Resources
+## Important Notes
 
-What I offer here should give a basic understanding of how to access whatever content a pirate wants. For those comfortable with everything I describe across these guides, I recommend checking out these comprehensive lists of pirate resources:
-- [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
-- [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
+- As with the rest of these guides, this will be very Windows 10 oriented. 
+- If you feel pretty comfortable with everything across all my guides, you should check out these comprehensive collections of pirate resources:
+    - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
+    - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
 
 ## File Hosters
 
@@ -14,7 +15,7 @@ File hosters have many names, such as cloud service, cloud, cloud hoster, file s
 
 ### MEGA
 
-[MEGA](https://mega.nz) is the most popular file hoster among more experienced pirates. This is becaue of MEGA's end to end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
+[MEGA](https://mega.nz) is the most popular file hoster among more experienced pirates. This is becaue of MEGA's end-to-end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
 
 A mega link, or link key, is a url that contains the key for a file or folder stored on MEGA. 
 
@@ -25,18 +26,18 @@ An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ```
 MegaDownloader is a download manager for MEGA. It is generally faster than downloading in-browser, and allows you to easily bypass download restrictions. Use is simple:
 
 1. Download [MegaDownloader](), you can place it anywhere on your computer.
-2. Launch ```MegaDownloader.exe```.
+2. Open ```MegaDownloader.exe```.
     - Upon launching MegaDownloader for the first time, a settings menu will pop up. Click cancel in the lower right corner, as the default settings do not need to be touched.
 3. Click the ```+``` button.
 4. Paste the mega link into the box by pressing ```ctrl + v```.
-    - You can add multiple links at once, just press ```Enter``` on your keyboard and paste again.
-5. Click ```Browse``` and select where on your computer you want to place your downloads
+    - You can add multiple links at once, just press ```Enter``` and paste again.
+5. Click ```Browse``` and select where on your computer you want to place your downloads.
 6. ```Start download``` and ```Create directory``` are enabled by default. I recommend keeping it that way.
-7. Click ```Add links```
+7. Click ```Add links```.
 
 ## File Extensions
 
-File extensions are a label at the end of all file names, which mark what type of file one is. They 
+File extensions are a label at the end of all file names, which mark what type of file one is. They consist of a ```.```, followed by an abbreviation for the type of file.
 
 File name WITHOUT visible file extension | File name WITH visibile file extension
 -----------------------------------------|---------------------------------------
@@ -44,6 +45,14 @@ spongebobsquarepants-s03e19 | spongebobsquarepants-s03e19.mkv
 august.taylorswift | august.taylorswift.flac
 
 As you can observe from these examples, a file extention always starts with a ```.```, and the example file extensions are ```.mkv ``` and ```.flac```. The presence of a ```.``` earlier in the file name, like in the second example, does not effect the file extension. 
+
+### Show File Extensions
+
+By default, Windows' File Explorer does not show users the file extensions of files. To enable this:
+
+1. Open File Explorer
+2. Click the ```View``` tab at the top.
+3. Check the box next to ```Show file extensions```.
 
 ## Zip Folders
 
