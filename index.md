@@ -1,1 +1,1 @@
-# lyrall.github.io
+im straight gonna throw up RIGHT NOW
