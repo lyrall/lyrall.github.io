@@ -5,6 +5,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
+- I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
 - If you feel pretty comfortable with everything across all my guides, you should check out these comprehensive collections of pirate resources:
     - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
     - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
