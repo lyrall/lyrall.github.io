@@ -30,18 +30,23 @@ By default, Windows' File Explorer does not display file extensions. To enable t
 
 ## Zip Folders
 
-You will encounter zip folders A LOT as a pirate. File archiving, or "zipping" is when a group of files is compressed into a single file, so that they can be stored and transferred as one. File systems treat zip folders as singular files, despite their name. That is, until they are unzipped and the contained files are seperated again.
+Note: The terms ```Zip Folder``` and ```File Archive``` are **interchangeable**.
 
-The common types of zip folders can be indentified by their file extension.
+You will encounter zip folders A LOT as a pirate. ***File archiving***, or "zipping" is when a group of files is combined into a single file, so that they can be stored and transferred as one. By "combining", I mean compression, which simply makes files more compact, smaller. File systems treat zip folders as singular files, despite their name. That is, until they are unzipped and the contained files are seperated again.
+
+The common types of zip folders can be indentified by their file extension. These are all zip folders, regardless of their different file extensions. Their different file extensions are indicative of a specific method of compression used to create the zip folder, each method having seperate origins.
 
 Common Types of Zip Folder | Source
-----------------------|------
-.zip | Default on Most Operating Systems
-.rar | Created by WinRAR
-.7z | Free and Open Source
+----------------------|------------
+.zip | Basic format, default on most operating systems
+.rar | Created by [WinRAR](https://www.rarlab.com/), paid software
+.7z | Created by [7-Zip](https://www.7-zip.org/), free and open source software
 
-### 7zip
+WinRAR is paid software, and is a tool for general zipping and unzipping purposes. The RAR zip folders can only be properly created by WinRAR software, but can be unzipped with most other zip folder management applications. 
 
+### 7-Zip
+
+7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. You can download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI). Here's how to use it:
 
 
 ## IP Address
@@ -78,8 +83,7 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
 
 Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [IPS Guide](ips-guide.md) for more info about VPNs and my recommendations/warnings concerning them.
 
-
-
+## Free and Open Source Software (FOSS)
 
 
 
