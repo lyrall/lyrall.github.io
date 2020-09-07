@@ -98,11 +98,3 @@ Should you be using MegaDownloader and your download comes to a hault, it is lik
 5. After a few cycles of this, you may be able to successfully download without a VPN again.
 
 This is a wash-rinse-repeat type of thing. It is tedious and requires management, but it works.
-
-## Free and Open Source Software (FOSS)
-
-
-
-
-
-
