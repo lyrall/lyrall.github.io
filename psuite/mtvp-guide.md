@@ -4,6 +4,7 @@
 
 - Please read the [Internet Privacy & Safety Guide](ips-guide.md) before using this guide.
 - It is not necessary, but if you are particurally tech illiterate, I recommend you also read my [Basic Pirate Literacy Guide](bpl-guide.md).
+- As with the rest of these guides, this will be very Windows 10 oriented. 
 
 ## Streaming
 
@@ -18,6 +19,6 @@ For the masses, the most appealing method of pirating movies and TV is streaming
 
 ## Direct Download
 
-As described in my [BPL Guide](bpl-guide.md), most pirated content is stored and shared through file hosters, which we can download from directly.
+As described in my [BPL Guide](bpl-guide.md), most pirated content is stored and shared through file hosters.
 
 ## Torrenting
