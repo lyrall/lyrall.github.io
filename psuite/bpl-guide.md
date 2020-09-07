@@ -5,6 +5,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
+- EVERYTHING here is important. If you do not understand these things first, you will have difficulty pirating.
 - I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
 - If you feel pretty comfortable with everything across all my guides, you should check out these comprehensive collections of pirate resources:
     - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
@@ -23,11 +24,15 @@ As you can observe from these examples, a file extention always starts with a ``
 
 ### Show File Extensions
 
-By default, Windows' File Explorer does not display file extensions. To enable this:
+By default, Windows' File Explorer does not display file extensions. To enable this (and please do):
 
 1. Open File Explorer.
 2. Click the ```View``` tab at the top.
 3. Check the box next to ```Show file extensions```.
+
+## Executable Files
+
+An exactuable is an app file that runs on computers. Executables have a ```.exe``` file extension. Be wary of these files when pirating. If you intended to download a video or audio clip, and instead get a file with ```.exe``` at the end, DELETE IT. Unless it's the product of a mistake you made, it is almost certainly a virus. Never run executables that you don't trust. In general, if you dont recognize a file extension, look it up to make sure it is the media type you intended to download. For example, video files will almost always have ```.mp4``` and ```.mkv``` file extensions, NEVER ```.exe```.
 
 ## Zip Folders
 
@@ -41,14 +46,15 @@ Common Types of Zip Folder | Source
 ----------------------|------------
 .zip | Basic format, default on most operating systems
 .rar | Created by [WinRAR](https://www.rarlab.com/), paid software
-.7z | Created by [7-Zip](https://www.7-zip.org/), free and open source software
+.7z | Created by [7-Zip](https://www.7-zip.org/), free software
 
 WinRAR is paid software, and is a tool for general zipping and unzipping purposes. The RAR zip folders can only be properly created by WinRAR software, but can be unzipped with most other zip folder management applications. 
 
 ### 7-Zip
 
-7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. You can download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI). Here's how to use it:
+7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file Here's how to use it:
 
+To i
 
 ## IP Address
 
@@ -62,7 +68,7 @@ File hosters have many names, such as cloud service, cloud, cloud hoster, file s
 
 [MEGA](https://mega.nz) is the most popular file hoster among more experienced pirates. This is becaue of MEGA's end-to-end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
 
-A mega link, or link key, is a url that contains the key for a file or folder stored on MEGA. 
+A mega link, or link key, is a url that contains the key (kind of like a password) for a file or folder stored on MEGA. 
 
 An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ``` 
 
@@ -70,7 +76,7 @@ An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ```
 
 MegaDownloader is a download manager for MEGA. It is generally faster than downloading in-browser, and allows you to easily bypass download restrictions. Use is simple:
 
-1. Download [MegaDownloader](), you can place it anywhere on your computer.
+1. Download [MegaDownloader](https://mega.nz/file/xBYXSKYI#VCIwix0sZIpdXD_kGW_uV0pvAmU6c2rsZrXM2lE1zQ4), you can place it anywhere on your computer.
 2. Open ```MegaDownloader.exe```.
     - Upon launching MegaDownloader for the first time, a settings menu will pop up. Click cancel in the lower right corner, as the default settings do not need to be touched.
 3. Click the ```+``` button.
@@ -79,6 +85,8 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
 5. Click ```Browse``` and select where on your computer you want to place your downloads.
 6. ```Start download``` and ```Create directory``` are enabled by default. I recommend keeping it that way.
 7. Click ```Add links```.
+
+You will see green progress bars fill up as your downloads go on. A green "Complete" and full progress bars will tell you that you downloads have finished. Right click on the name of any download and select ```Clean completed``` to clear out all finished downloads. 
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
