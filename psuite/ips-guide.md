@@ -1,4 +1,4 @@
-# InternetPrivacySafety
+# Internet Privacy and Safety
 
 ## Important Notes
 
