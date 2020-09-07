@@ -32,7 +32,7 @@ By default, Windows' File Explorer does not display file extensions. To enable t
 
 ## Executable Files
 
-An exactuable is an app file that runs on computers. Executables have a ```.exe``` file extension. Be wary of these files when pirating. If you intended to download a video or audio clip, and instead get a file with ```.exe``` at the end, DELETE IT. Unless it's the product of a mistake you made, it is almost certainly a virus. Never run executables that you don't trust. In general, if you dont recognize a file extension, look it up to make sure it is the media type you intended to download. For example, video files will almost always have ```.mp4``` and ```.mkv``` file extensions, NEVER ```.exe```.
+An exactuable is an app file that runs on computers. Executables have a ```.exe``` file extension. Executables are generally safe to run if you know where they came from. But it is not uncommon for people to take advantage of those who know nothing of file extensions, and trick them into running an executable with viruses. So be wary of these files when pirating. If you intended to download a video or audio clip, and instead get a file with ```.exe``` at the end, DELETE IT. Unless it's the product of a mistake you made, it is almost certainly a virus. Never run executables that you don't trust. In general, if you dont recognize a file extension, look it up to make sure it is the media type you intended to download. For example, video files will almost always have ```.mp4``` and ```.mkv``` file extensions, NEVER ```.exe```. If you are pirating a videogame or software, an executable is what you SHOULD be getting, just make sure you trust it's source.
 
 ## Zip Folders
 
@@ -52,9 +52,8 @@ WinRAR is paid software, and is a tool for general zipping and unzipping purpose
 
 ### 7-Zip
 
-7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file Here's how to use it:
+7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's how to use it:
 
-To i
 
 ## IP Address
 
@@ -90,7 +89,15 @@ You will see green progress bars fill up as your downloads go on. A green "Compl
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
-Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [IPS Guide](ips-guide.md) for more info about VPNs and my recommendations/warnings concerning them.
+Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [IPS Guide](ips-guide.md) for more info about VPNs and my recommendations/warnings concerning them. Note that this is a very involved process, and may not be worth it to some people. 
+
+1. Though your downloads have been stopped, go ahead and click the stop button ```⬜```.
+2. Open up the VPN of your choice and activate it.
+3. Resume your download by clicking ```▶️```.
+4. If your download is forced to a stop again, repeat steps 1-3 but with a different location selected on your VPN.
+5. After a few cycles of this, you may be able to successfully download without a VPN again.
+
+This is a wash-rinse-repeat type of thing. It is tedious and requires management, but it works.
 
 ## Free and Open Source Software (FOSS)
 
