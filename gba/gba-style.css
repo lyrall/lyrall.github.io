@@ -1,39 +1,79 @@
- html, body {background-color: #222222;
-                padding: 0;
-                margin: 0;
-                width: 100%;
-                height: 100%;
-                cursor: none;}
-    p {color: #FFFFFF;
-       font-family: monospace;}
-    a {color: #C669D0;
-       font-weight: bold;
-       font-family: monospace;}
-    a:link {color: #FFFFFF;
-            text-decoration:none;}
-    a:hover {color: #FFFFFF;
-             text-decoration:underline;}
-    a:visited {color: #FFFFFF;
-               text-decoration:none;}
-    ul {color: #FFFFFF;
-        font-family: monospace;}
-    li {color: #FFFFFF;
-        font-family: monospace;} 
-    h1 {color: #C669D0;
-        font-weight: bold;
-        font-family: monospace;}
-    .button {background-color: #FC98FF;
-             border: none;
-             color: #C669D0;
-             padding: 15px 15px;
-             text-align: center;
-             font-size: 16px;
-             font-family: monospace;
-             font-weight: bold;
-             cursor: pointer;
-             margin: auto;}
-    canvas {position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;}
+html, body {
+  background-color: #222222;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: none;
+}
+   
+p {
+  color: #FFFFFF;
+  font-family: monospace;
+}
+
+a {
+  color: #C669D0;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+a:link {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration:underline;
+}
+
+a:visited {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+    
+ul {
+  color: #FFFFFF;
+  font-family: monospace;
+}
+
+li {
+  color: #FFFFFF;
+  font-family: monospace;
+} 
+
+h1 {
+  color: #C669D0;
+  font-weight: bold;
+  font-family: monospace;
+}
+    
+.button {
+  background-color: #FC98FF;
+  border: none;
+  color: #C669D0;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 16px;
+  font-family: monospace;
+  font-weight: bold;
+  cursor: pointer;
+  margin: auto;
+}
+  
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
