@@ -1,19 +1,45 @@
 body {
-  background: #ffffff;
+  background-color: #222222;
 }
 
 p {
-  color: #C669D0;
+  color: #FFFFFF;
   font-family: monospace;
 }
+    
 
-h1 {
+a {
   color: #C669D0;
   font-weight: bold;
   font-family: monospace;
 }
 
-a {
+a:link {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration:underline;
+}
+
+a:visited {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+ 
+ul {
+  color: #FFFFFF;
+  font-family: monospace;
+}
+    
+li {
+  color: #FFFFFF;
+  font-family: monospace;
+}
+ 
+h1 {
   color: #C669D0;
   font-weight: bold;
   font-family: monospace;
