@@ -19,12 +19,4 @@ Contains a series of guides on how to pirate, written in Markdown. Markdown is a
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://lyrall.github.io/">
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://lyrall.github.io/">
-  United States</span>.
 </p>
