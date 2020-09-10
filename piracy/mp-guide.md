@@ -19,9 +19,10 @@ Deemix is a download manager, allowing you to download music files from Deezer's
     - I recommend using a fake email and name. Use [temp-mail](temp-mail.org) for a throwaway email.
 2. Once signed in, stay on that page and click the lock symbol ```🔒``` that's on the right of the url.
 3. Click ```Cookies```. 
-
+4. Within the pop-up, click the arrow next ```www
 
 ## Configuration
+
 
 Deemix needs to be configured a little before you start using it. First, upon first launching the app, you'll be prompted to paste your ```arl``` code into a box, allowing Deemix to access Deezer servers.
 
