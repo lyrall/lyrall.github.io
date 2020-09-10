@@ -19,10 +19,17 @@ Deemix is a download manager, allowing you to download music files from Deezer's
     - I recommend using a fake email and name. Use [temp-mail](temp-mail.org) for a throwaway email.
 2. Once signed in, stay on that page and click the lock symbol ```🔒``` that's on the right of the url.
 3. Click ```Cookies```. 
-4. Within the pop-up, click the arrow next ```www
+4. Within the pop-up, click the arrow next ```deezer.com```.
+5. Click the arrow next to the folder icon labeled ```Cookies```.
+6. Scroll down the list and find ```arl```, select it.
+7. There should be a few values with Name, Content, Domain, and Path labels. Copy the long line of letters and numbers next to Content.
+8. Paste this in a note-keeping app somewhere, you'll need it later.
+9. [Download Deemix](), it is packaged in a zip folder.
+10. Unzip the zip folder you just downloaded into a new folder, and name it Deemix.
+    - It doesn't matter where your new Deemix folder is located, as long as it is a newly created folder. I prefer to keep my Deemix folder in the "Program Files" folder on my computer.
+11. Optionally, open the Deemix folder and right click on ```deemix_gui.exe```, and then click ```Create shortcut```. Drag and drop your newly created shortcut onto your desktop for easy access. Alternatively, right click ```deemix_gui.exe``` and click ```Pin to Start``` For another shortcut.
 
 ## Configuration
-
 
 Deemix needs to be configured a little before you start using it. First, upon first launching the app, you'll be prompted to paste your ```arl``` code into a box, allowing Deemix to access Deezer servers.
 
