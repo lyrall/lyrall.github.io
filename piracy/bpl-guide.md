@@ -99,3 +99,15 @@ Should you be using MegaDownloader and your download comes to a hault, it is lik
 5. After a few cycles of this, you may be able to successfully download without a VPN again.
 
 This is a wash-rinse-repeat type of thing. It is tedious and requires management, but it works.
+
+## Torrenting
+
+Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, as is how all file hosters such as MEGA work. But with torrenting, there is no central server. Rather, pieces of files are stored accross a network of computer, consisting of all the people who 
+
+qBittorrent
+
+
+
+
+
+
