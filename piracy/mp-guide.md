@@ -36,3 +36,7 @@ Deemix needs to be configured a little before you start using it. First, upon fi
 ## Downloading with Deemix
 
 ## How to listen to your music
+
+## Alternative Methods
+
+If for some reason you don't want to use Deemix (even though there plainly is NOT a better way to pirate music at this moment in time), there are still a few other methods I can hesitantly recommend.
