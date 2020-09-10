@@ -15,7 +15,7 @@ Deemix is a download manager, allowing you to download music files from Deezer's
 ## Installation
 
 1. Go to the [Deezer website](www.deezer.com), create an account, and sign in.
-  - I recommend using a fake email and name. Use [temp-mail](temp-mail.org) for a throwaway email.
+    - I recommend using a fake email and name. Use [temp-mail](temp-mail.org) for a throwaway email.
 2. Once signed in, stay on that page and click the lock symbol ```🔒``` that's on the right of the url.
 3. Click ```Cookies```. 
 
