@@ -2,7 +2,7 @@
 
 ## Required Reading
 
-- Check out my Internet Privacy & Safety Guide and Basic Pirate Literacyy Guide FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
+- Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacyy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
 - As with the rest of these guides, this will be very Windows 10 oriented. 
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 
@@ -14,12 +14,15 @@ Deemix is a download manager, allowing you to download music files from Deezer's
 
 ## Installation
 
-1. Go to the [Deezer website](www.deezer.com), create an account, and sign in
-2. Once signed in, stay on that page and click the lock symbol ``` ``` that's on the right of the url.
-3. Click "Cookies". 
+1. Go to the [Deezer website](www.deezer.com), create an account, and sign in.
+  - I recommend using a fake email and name. Use [temp-mail](temp-mail.org) for a throwaway email.
+2. Once signed in, stay on that page and click the lock symbol ```🔒``` that's on the right of the url.
+3. Click ```Cookies```. 
 
 
 ## Configuration
+
+Deemix needs to be configured a little before you start using it. First, upon first launching the app, you'll be prompted to paste your ```arl``` code into a box, allowing Deemix to access Deezer servers.
 
 ## Downloading with Deemix
 
