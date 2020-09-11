@@ -42,7 +42,7 @@ Deemix is a download manager, allowing you to download music files from Deezer's
 
 Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. **I highly recommend these ones. Setting options I do not mention are insignificant, but I do not recommend changing the defaults.**  
 
-- **Download Path**: Type ```C:\Users\[youraccount]\Music``` into the box, but replace ```[youraccount``` with the username for you computer. If somehow you don't know your computer username, pressing the Windows button and then clicking the profile button ```👤``` will display your username.
+- **Download Path**: Type ```C:\Users\[youraccount]\Music``` into the box, but replace ```[youraccount]``` with the username for you computer. If somehow you don't know your computer username, pressing the Windows button and then clicking the profile button ```👤``` will display your username.
 - **Trackname template**: Type ```%artist% - %title%``` into the box.
 - **Album track template**: Type ```%tracknumber% - %title%``` into the box.
 - **Playlist track template**: Type ```%position% - %title% - %artist%``` into the box.
@@ -54,11 +54,17 @@ Deemix needs to be configured a little before you start using it. First, upon fi
 - **Pad tracks**: Do not check```⬜```.
 - **Illegal Character replacer**: Keep this box BLANK, delete anything inside of it.
 - **Prefered Bitrate**: Select ```MP3 320kbps``` if you have limited storage space on your computer/phone, select ```FLAC 1411kbps``` if you have more storage space, and want higher quality. ```MP3 320kbps``` is still excellent quality, just not the excessive quality of ```FLAC 1411kbps```.
-- 
 
 ## Downloading with Deemix
 
 ## How to listen to your music
+
+Music players for:
+
+Windows | iOS | Android
+--------|-----|---------
+[VLC](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe) | [Flacbox](https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id109756426) | [Pi Player](https://play.google.com/store/apps/details?id=com.Project100Pi.themusicplayer&hl=en)
+[MusicBee](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file) | [VLC](https://apps.apple.com/us/app/vlc-for-mobile/id650377962) | [Pulsar Music Player](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar&hl=en)
 
 ## Alternative Methods
 
