@@ -63,8 +63,8 @@ Music players for:
 
 Windows | iOS | Android
 --------|-----|---------
-[Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) | [Flacbox](https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id109756426) | [Pi Player](https://play.google.com/store/apps/details?id=com.Project100Pi.themusicplayer&hl=en)
-[MusicBee](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file) | [VLC](https://apps.apple.com/us/app/vlc-for-mobile/id650377962) | [Pulsar Music Player](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar&hl=en)
+[Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) | [Flacbox](https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id109756426) | [Pulsar Music Player](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar&hl=en)
+[MusicBee](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file) | [VLC](https://apps.apple.com/us/app/vlc-for-mobile/id650377962) | [Pi Player](https://play.google.com/store/apps/details?id=com.Project100Pi.themusicplayer&hl=en)
 [VLC](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe) |
 
 ## Alternative Methods
