@@ -2,7 +2,7 @@
 
 ## Required Reading
 
-- Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacyy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
+- Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
 - As with the rest of these guides, this will be very Windows 10 oriented. 
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
@@ -27,11 +27,13 @@ Deemix is a download manager, allowing you to download music files from Deezer's
 9. [Download Deemix](), it is packaged in a zip folder.
 10. Unzip the zip folder you just downloaded into a new folder, and name it Deemix.
     - It doesn't matter where your new Deemix folder is located, as long as it is a newly created folder. I prefer to keep my Deemix folder in the "Program Files" folder on my computer.
-11. Optionally, open the Deemix folder and right click on ```deemix_gui.exe```, and then click ```Create shortcut```. Drag and drop your newly created shortcut onto your desktop for easy access. Alternatively, right click ```deemix_gui.exe``` and click ```Pin to Start``` For another shortcut.
+11. Optionally, open the Deemix folder and right click on ```deemix_gui.exe``` (this is the app itself), and then click ```Create shortcut```. Drag and drop your newly created shortcut onto your desktop for easy access. Alternatively, right click ```deemix_gui.exe``` and click ```Pin to Start``` For another shortcut.
 
 ## Configuration
 
-Deemix needs to be configured a little before you start using it. First, upon first launching the app, you'll be prompted to paste your ```arl``` code into a box, allowing Deemix to access Deezer servers.
+Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. 
+
+**Download Path**
 
 ## Downloading with Deemix
 
