@@ -76,7 +76,7 @@ An example: ```https://mega.nz/folder/ObokBahB#8y4EKrQLVScGSx8WUitvpQ```
 
 MegaDownloader is a download manager for MEGA. It is generally faster than downloading in-browser, and allows you to easily bypass download restrictions. Use is simple:
 
-1. Download [MegaDownloader](https://mega.nz/file/xBYXSKYI#VCIwix0sZIpdXD_kGW_uV0pvAmU6c2rsZrXM2lE1zQ4), you can place it anywhere on your computer.
+1. [Download MegaDownloader](https://mega.nz/file/xBYXSKYI#VCIwix0sZIpdXD_kGW_uV0pvAmU6c2rsZrXM2lE1zQ4), you can place it anywhere on your computer.
 2. Open ```MegaDownloader.exe```.
     - Upon launching MegaDownloader for the first time, a settings menu will pop up. Click cancel in the lower right corner, as the default settings do not need to be touched.
 3. Click the ```+``` button.
@@ -104,7 +104,15 @@ This is a wash-rinse-repeat type of thing. It is tedious and requires management
 
 Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, as is how all file hosters such as MEGA work. But with torrenting, there is no central server. Rather, pieces of files are stored accross a network of computer, consisting of all the people who 
 
-qBittorrent
+### Terminology and Etiquette
+
+### WARNING
+
+Torrenting is a legacy method of pirating, but there is a reason it's a legacy method and not a current one. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complain letters claiming that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.] While it is safe to torrent with a VPN, I generally avoid it unless my usual sources don't have something specific I'm looking for.
+
+Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you have the common sense to not download viruses while looking for .mp3 files. 
+
+### qBittorrent
 
 
 
