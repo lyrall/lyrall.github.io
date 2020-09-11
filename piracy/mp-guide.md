@@ -7,6 +7,9 @@
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
 
+## Content
+- [Deemix](#Deemix)
+
 ## Deemix
 
 There are a lot of legacy methods of pirating music, which served their purposes. Ripping from youtube music videos, torrenting albums with Limewire, etc. Please, do not do any of those things. Though this method could become obsolete at a moment's notice, there is currently a singular superior way to pirate music, and that is Deemix. 
