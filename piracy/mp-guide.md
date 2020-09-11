@@ -3,6 +3,11 @@
 ## Content
 - [Required Reading](#Required-Reading)
 - [Deemix](#Deemix)
+- [Installation](#Installation)
+- [Configuration](#Configuation)
+- [Downloading with Deemix](#Downloading-with-Deemix)
+- [How to listen to your music](#How-to-listen-to-your-music)
+- [Altenative Methods](#Alternative-Methods)
 
 ## Required Reading
 
