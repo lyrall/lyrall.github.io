@@ -10,6 +10,9 @@ This guide will be explaining a few processes that will increase your overall co
 - If you feel pretty comfortable with everything across all my guides, you should check out these comprehensive collections of pirate resources:
     - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
     - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
+## Basic Terminology
+
+- Directory: File folder.
 
 ## File Extensions
 

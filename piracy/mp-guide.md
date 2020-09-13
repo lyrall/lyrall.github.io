@@ -11,7 +11,8 @@
 
 ## Required Reading
 
-- Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
+- Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy
+ Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
 - As with the rest of these guides, this will be very Windows 10 oriented. 
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
@@ -40,7 +41,7 @@ Deemix is a download manager, allowing you to download music files from Deezer's
 
 ## Configuration
 
-Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. **I highly recommend these ones. Setting options I do not mention are insignificant, but I do not recommend changing the defaults.**  
+Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. **I highly recommend these ones. Setting options I do not mention are insignificant, and I do not recommend changing the defaults.**  
 
 - **Download Path**: Type ```C:\Users\[youraccount]\Music``` into the box, but replace ```[youraccount]``` with the username for you computer. If somehow you don't know your computer username, pressing the Windows button and then clicking the profile button ```👤``` will display your username.
 - **Trackname template**: Type ```%artist% - %title%``` into the box.
@@ -57,7 +58,43 @@ Deemix needs to be configured a little before you start using it. First, upon fi
 
 ## Downloading with Deemix
 
+The benefit of using Deemix rather than anything else, is that Deemix makes music piracy easy for you. Many alternative methods of music piracy require you to manually sift through hundreds of sources in order to achieve a consistent library. With deemix, you can have consistent quality, formatting, and tags throughout your collection with 0 effort. Just note that some of my instructions here are to help maintain that consistency, if you're looking for a clean collection. 
+
+1. Click the search icon ```🔍```, search for any song/album you want.
+2. Click on the song/album you want, do not click the download arrow ```⬇️```.
+3. Click ```DOWNLOAD ALBLUM``` **always**.
+	- I highly recommend doing this, even if you only listen to 1 song on the album. Whole albums rather than pieces adds consistency to your collection.
+4. A panel on the right will show the progress of your downloads.
+	- Click the arrow ```⬅️``` to open and close the progress panel.
+	- The folder icon ```📁``` will open the folder your music is downloading to.
+	- The 3 lines icon ```☰``` will clear completed downloads from the list.
+	- The trash can ```🗑️``` icon will clear all downloads from the list, and cancel current downloads. Incomplete versions of canceled downloads will still be in your music folder, remember to delete them.
+
 ## How to listen to your music
+
+You've downloaded music to your computer, and you can listen to it there if you want. Just open your favorite music player for Windows (Groove, VLC) and the program will ask you where your music is (hopefully in your music folder). But most people want to listen to music on their phones. To do that, all you need is a way to transfer your music files from your computer, to your phone. For Android users, that process is as simple as plugging your phone into your computer. For iOS users, the process is a bit more involved. Here is the method I recommend:
+
+**Documents + Unzip app method**
+
+1. Zip your files into a ```.7z``` folder.
+	- If you don't know how to do this, [read the ENTIRE ```Zip Folders``` section of the Basic Pirate Literacy Guide](bpl-guide.md#Zip-Folders).
+	- This may take awhile if you have a lot of music.
+2. Download the [Documents](https://apps.apple.com/us/app/documents-by-readdle/id364901807) app to your phone.
+3. Open the app, go to the ```Connections``` tab at the bottom.
+4. Click ```Computer```.
+5. Follow the on-screen instructions to connect the app to your computer.
+6. Upload the 7z folder that contains your music.
+7. Back on you phone, download the [Unzip](https://apps.apple.com/us/app/unzip-zip-file-opener/id1281374098) app.
+8. Open the app, go to the ```Transfer``` tab at the bottom.
+9. Click ```Files/iCould Drive```.
+10. Click ```⬅️Browse```, under Locations click ```Documents```, and then select the 7z file with that contains your music.
+11. Go to the ```Files``` tab at the bottom.
+12. Click the 7z file that contains your music. The app will then unzip it, and produce a real folder with the same name. 
+	- This may take awhile if you have a lot of music.
+13. Next to the folder with your music in it, click the info icon ```ℹ️```, select ```Send```, and then ```Save to Files```.
+14. Select ```On My iPhone``` and then ```Save```. 
+
+That's it! If you like, you can now delete all other copies of your music except the one in the ```On My iPhone```  folder on your phone. You can access this folder from a music player of your choice, but I have some recommendations for that too. 
 
 Music players for:
 
