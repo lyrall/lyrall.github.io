@@ -2,7 +2,7 @@
 
 ## Content
 - [Required Reading](#Required-Reading)
-- [Deemix](#Deemix)
+- [Deemix & Music Piracy](#Deemix-&-Music-Piracy)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
 - [Downloading with Deemix](#Downloading-with-Deemix)
@@ -16,11 +16,13 @@
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
 
-## Deemix
+## Deemix & Music Piracy
 
-There are a lot of legacy methods of pirating music, which served their purposes. Ripping from youtube music videos, torrenting albums with Limewire, etc. Please, do not do any of those things. Though this method could become obsolete at a moment's notice, there is currently a singular superior way to pirate music, and that is Deemix. 
+There are a lot of legacy methods of pirating music, which served their purposes. Ripping from Youtube music videos, torrenting albums with Limewire, etc. Please, do not do any of those things. Though this method could become obsolete at a moment's notice, there is currently a singular superior way to pirate music, and that is Deemix. 
 
-Deemix is a download manager, allowing you to download music files from Deezer's servers. Deezer is a music streaming service, much like Spotify. But unlike Spotify, their security is poor enough that smart people were able to create Deemix. If an application tells you it can do the same with Spotify, it is lying to you. This is the current superior way to pirate music, because downloading from an official music streaming service provides high quality music with all the correct tags and album art.
+Deemix is a download manager, allowing you to download music files from Deezer's servers. Deezer is a music streaming service, much like Spotify. But unlike Spotify, their security is poor enough that smart people were able to create Deemix. If an application tells you it can do the same with Spotify, it is lying to you. It has been done in the past, but Spotify is always quick to eliminate such methods. Deemix is the current superior way to pirate music, because downloading from an official music streaming service provides high quality music with all the correct tags and album art.
+
+The only downside to Deemix is that it is that Deezer does not host certain **extremely** obscure music. Thus, Deemix is not able to download those tracks. This is rarely an issue. 
 
 ## Installation
 
@@ -58,7 +60,7 @@ Deemix needs to be configured a little before you start using it. First, upon fi
 
 ## Downloading with Deemix
 
-The benefit of using Deemix, is that unlike everything else, Deemix makes music piracy easy for you. Many alternative methods of music piracy require you to manually sift through hundreds of sources in order to achieve a consistent library. With deemix, you can have consistent quality, formatting, and tags throughout your collection with 0 effort. Just note that some of my instructions here are to help maintain that consistency, if you're looking for a clean collection. 
+The benefit of using Deemix, is that unlike everything else, Deemix makes music piracy easy for you. Many alternative methods of music piracy require you to manually sift through hundreds of sources in order to achieve a consistent library. With Deemix, you can have consistent quality, formatting, and tags throughout your collection with 0 effort. Just note that some of my instructions here are to help maintain that consistency, if you're looking for a clean collection. 
 
 1. Click the search icon ```🔍```, search for any song/album you want.
 2. Click on the song/album you want, do not click the download arrow ```⬇️```.
