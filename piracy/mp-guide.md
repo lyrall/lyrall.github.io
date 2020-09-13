@@ -58,7 +58,7 @@ Deemix needs to be configured a little before you start using it. First, upon fi
 
 ## Downloading with Deemix
 
-The benefit of using Deemix rather than anything else, is that Deemix makes music piracy easy for you. Many alternative methods of music piracy require you to manually sift through hundreds of sources in order to achieve a consistent library. With deemix, you can have consistent quality, formatting, and tags throughout your collection with 0 effort. Just note that some of my instructions here are to help maintain that consistency, if you're looking for a clean collection. 
+The benefit of using Deemix, is that rather usic piracy easy for you. Many alternative methods of music piracy require you to manually sift through hundreds of sources in order to achieve a consistent library. With deemix, you can have consistent quality, formatting, and tags throughout your collection with 0 effort. Just note that some of my instructions here are to help maintain that consistency, if you're looking for a clean collection. 
 
 1. Click the search icon ```🔍```, search for any song/album you want.
 2. Click on the song/album you want, do not click the download arrow ```⬇️```.
