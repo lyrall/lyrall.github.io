@@ -2,7 +2,7 @@
 
 ## Content
 - [Required Reading](#Required-Reading)
-- [Deemix & Music Piracy](#Deemix-&amp;-Music-Piracy)
+- [Deemix & Music Piracy](#Deemix-and-Music-Piracy)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
 - [Downloading with Deemix](#Downloading-with-Deemix)
@@ -16,13 +16,13 @@
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
 
-## Deemix & Music Piracy
+## Deemix and Music Piracy
 
 There are a lot of legacy methods of pirating music, which served their purposes. Ripping from Youtube music videos, torrenting albums with Limewire, etc. Please, do not do any of those things. Though this method could become obsolete at a moment's notice, there is currently a singular superior way to pirate music, and that is Deemix. 
 
 Deemix is a download manager, allowing you to download music files from Deezer's servers. Deezer is a music streaming service, much like Spotify. But unlike Spotify, their security is poor enough that smart people were able to create Deemix. If an application tells you it can do the same with Spotify, it is lying to you. It has been done in the past, but Spotify is always quick to eliminate such methods. Deemix is the current superior way to pirate music, because downloading from an official music streaming service provides high quality music with all the correct tags and album art.
 
-The only downside to Deemix is that it is that Deezer does not host certain **extremely** obscure music. Thus, Deemix is not able to download those tracks. This is rarely an issue. 
+The only downside to Deemix is that Deezer does not host certain **extremely** obscure music. Thus, Deemix is not able to download those tracks. This is rarely an issue. 
 
 ## Installation
 
@@ -85,6 +85,7 @@ You've downloaded music to your computer, and you can listen to it there if you 
 3. Open the app, go to the ```Connections``` tab at the bottom.
 4. Click ```Computer```.
 5. Follow the on-screen instructions to connect the app to your computer.
+	- Your phone and computer must be connected to the same WiFi.
 6. Upload the 7z folder that contains your music.
 7. Back on you phone, download the [Unzip](https://apps.apple.com/us/app/unzip-zip-file-opener/id1281374098) app.
 8. Open the app, go to the ```Transfer``` tab at the bottom.
@@ -109,3 +110,4 @@ Windows | iOS | Android
 ## Alternative Methods
 
 If for some reason you don't want to use Deemix (even though there plainly is NOT a better way to pirate music at this moment in time), there are still a few other methods I can hesitantly recommend.
+
