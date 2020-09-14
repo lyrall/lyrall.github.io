@@ -2,7 +2,7 @@
 
 ## Content
 - [Required Reading](#Required-Reading)
-- [Deemix & Music Piracy](#Deemix-&-Music-Piracy)
+- [Deemix & Music Piracy](#Deemix-&amp;-Music-Piracy)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
 - [Downloading with Deemix](#Downloading-with-Deemix)
