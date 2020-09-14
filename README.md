@@ -14,6 +14,8 @@ A folder containing the emulator core, ROMS, and launcher for a functional, in-b
 
 Contains a series of guides on how to pirate, written in Markdown. Markdown is a lightweight markup langauge, that allows you to quickly format text so that it is organized and readable. The text you are reading right now is formatted with Markdown. While they are still in progress, in the end there will be 5 pirate guides: Basic Pirate Literacy, Internet Safety & Privacy, Movies/TV, Video Games, and Music. I wrote them for the tech-illiterate in mind, so they should be accessible to anyone willing to put in the effort. Soon enough, I will learn how to use Jekyll. I'm not entirely sure what it is, but I know that using it with this repository's Github Pages site will allow my Markdown files to be readable on the site, not just within the repository. And that I will be able to add themes so you can read them in darkmode :D
 
+## License
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
