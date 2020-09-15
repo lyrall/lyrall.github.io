@@ -51,13 +51,11 @@ Common Types of Zip Folder | Source
 .rar | Created by [WinRAR](https://www.rarlab.com/), paid software
 .7z | Created by [7-Zip](https://www.7-zip.org/), free software
 
-WinRAR is paid software, and is a tool for general zipping and unzipping purposes. The RAR zip folders can only be properly __created__ by WinRAR software, but can be unzipped with most other zip folder management applications. 
+### 7-Zip and WinRAR
 
-### 7-Zip
+WinRAR is paid software, and is a tool for general zipping and unzipping purposes. RAR zip folders can only be properly **created** by WinRAR software, but can be unzipped with most other zip folder management applications. 7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
 
-7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
-
-#### Viewing Zip Files
+#### Viewing the Contents of Zip Folders
 
 Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```. You can select standard zip files in Windows 10 by simply double clicking them, but it is best practice to use the ```Open Archive``` option by default, to ensure support for non-standard zip files like ```.7z``` and ```.rar```. 
 
