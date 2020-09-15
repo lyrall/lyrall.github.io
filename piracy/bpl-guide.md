@@ -135,13 +135,12 @@ Typically, when you download anything off of the web, files are stored and distr
 - "Torrent" can be used as a noun or a verb. As a noun, a torrent is a file that you give to a torrent client, that then allows the torrent client to download the content associated with the torrent file. As a verb, a torrent refers to the act of downloading content using torrents. 
 - A torrent client is a computer application for downloading and managing torrents. 
 - A magnet link is a different way of torrenting. Rather than downloading a torrent file to give to your torrent client, magnent links can be clicked in-browser, prompting your torrent client to open, and start the download.
-- 
 
 ### WARNING
 
-Torrenting is a legacy method of pirating, and while still very popular, there it no one touting it as the best and most modern way to pirate. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complaint letters claiming that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.] While it is safe to torrent with a VPN, I generally avoid it unless my usual sources don't have something specific I'm looking for.
+Torrenting is a legacy method of pirating, and while still very popular, there is no one touting it as the best and most modern way to pirate. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complaint letters claiming that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.] While it is safe to torrent with a VPN, I generally avoid it unless my usual sources don't have something specific I'm looking for.
 
-Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you have the common sense to not download ```.exe``` apps when looking for ```.mp3``` apps. 
+Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you follow my instructions. 
 
 ### qBittorrent
 
