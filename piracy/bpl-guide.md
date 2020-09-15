@@ -56,18 +56,19 @@ WinRAR is paid software, and is a tool for general zipping and unzipping purpose
 
 7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
 
-### Viewing Zip Files
+#### Viewing Zip Files
 
 Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```. You can select standard zip files in Windows 10 by simply double clicking them, but it is best practice to use the ```Open Archive``` option by default, to ensure support for non-standard zip files like ```.7z``` and ```.rar```. 
 
-### Zipping
+#### Zipping
 
 1. Select the files or group of files you want to zip. 
 2. Right click the files.
 3. Hover over ```7-Zip```.
-4.
-  - FJdk
-  - dsjf
+4. - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
+   - Select ```Add to "<>.7z"``` to compress all selected files into a ```.7z``` zip folder.
+
+#### Unzipping
 
 ## IP Address
 
