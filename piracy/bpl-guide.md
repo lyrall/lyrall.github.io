@@ -5,7 +5,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- EVERYTHING here is important. If you do not understand these things first, you will have difficulty pirating.
+- EVERYTHING here is important.
 - I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
 
 ## Basic Terminology
@@ -50,7 +50,7 @@ Common Types of Zip Folder | Source
 .rar | Created by [WinRAR](https://www.rarlab.com/), paid software
 .7z | Created by [7-Zip](https://www.7-zip.org/), free software
 
-WinRAR is paid software, and is a tool for general zipping and unzipping purposes. The RAR zip folders can only be properly created by WinRAR software, but can be unzipped with most other zip folder management applications. 
+WinRAR is paid software, and is a tool for general zipping and unzipping purposes. The RAR zip folders can only be properly __created__ by WinRAR software, but can be unzipped with most other zip folder management applications. 
 
 ### 7-Zip
 
