@@ -11,6 +11,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Basic Terminology
 
 - Directory: File folder.
+- Parent folder/directory: 
 
 ## File Extensions
 
@@ -67,9 +68,9 @@ Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```.
 2. Right click the files.
 3. Hover over ```7-Zip```.
 4. - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
-   - Select ```Add to "<>.7z"``` to compress all selected files into a ```.7z``` zip folder.
+   - Select ```Add to "<Name>.7z"``` to compress all selected files into a ```.7z``` zip folder.
+      - <Name> here is a placeholder, for you that space will display the name of the parent directory, or one of the files you are zipping. This is 7-Zip's attempt at giving a name to your zip folder, but you can change it once the zip folder is created.
       - I recommend using ```.7z```.
-      - I fjdkf
 
 #### Unzipping
 
