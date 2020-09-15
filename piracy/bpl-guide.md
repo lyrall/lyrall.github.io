@@ -5,7 +5,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- EVERYTHING here is important.
+- EVERYTHING here is important, except the [torrenting](#Torrenting) section, which is an optional method.
 - I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
 
 ## Basic Terminology
@@ -128,15 +128,19 @@ This is a wash-rinse-repeat type of thing. It is tedious and requires management
 
 ## Torrenting
 
-Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, as is how all file hosters such as MEGA work. But with torrenting, there is no central server. Rather, pieces of files are stored accross a network of computer, consisting of all the people who 
+Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, as is how all file hosters such as MEGA work. But with torrenting, there is no central server. Rather, pieces of files are stored accross a network of computer, consisting of all the people who have downloaded from the torrent. The technology behind it is a little complicated, but you dont't need to understand it to use it. I am putting this info here because you can use torrenting to download any media type, however, I personally recommmend it's use for movies ONLY. 
 
-### Terminology and Etiquette
+### Terminology and Etiquette. 
+
+- "Torrent" can be used as a noun or a verb. As a noun, a torrent is a file that you give to a torrent client, that then allows the torrent client to download the content associated with the torrent file. As a verb, a torrent refers to the act of downloading content using torrents. 
+- A torrent client is a computer application for downloading and managing torrents. 
+- A magnet link is a different way of torrenting. Rather than downloading a torrent file to give to your torrent client, magnent links can be clicked in-browser, prompting your torrent client to open, and starting the download.
 
 ### WARNING
 
 Torrenting is a legacy method of pirating, but there is a reason it's a legacy method and not a current one. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complain letters claiming that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.] While it is safe to torrent with a VPN, I generally avoid it unless my usual sources don't have something specific I'm looking for.
 
-Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you have the common sense to not download viruses while looking for .mp3 files. 
+Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you have the common sense to not download ```.exe``` apps when looking for ```.mp3``` apps. 
 
 ### qBittorrent
 
