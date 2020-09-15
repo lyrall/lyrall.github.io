@@ -11,7 +11,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Basic Terminology
 
 - Directory: File folder.
-- Parent folder/directory: 
+- Parent folder/directory: The folder "1 level up" from the folder you are currently viewing. 
 
 ## File Extensions
 
@@ -65,14 +65,24 @@ Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```.
 
 1. Select the files or group of files you want to zip. 
    - You can select any group of files AND folders, all can be contained in a zip folder. 
-2. Right click the files.
+2. Right click the files you want to zip.
 3. Hover over ```7-Zip```.
-4. - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
-   - Select ```Add to "<Name>.7z"``` to compress all selected files into a ```.7z``` zip folder.
-      - \<Name\> here is a placeholder, for you that space will display the name of the parent directory, or one of the files you are zipping. This is 7-Zip's attempt at giving a name to your zip folder, but you can change it once the zip folder is created.
-      - I recommend using ```.7z```.
+4. You have 2 options.
+  - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
+  - Select ```Add to "<Name>.7z"``` to compress all selected files into a ```.7z``` zip folder.
+    - \<Name\> here is a placeholder. For you, that space will display the name of the [parent directory](#Basic-Knowledge), or one of the files you are zipping. This is 7-Zip's attempt at giving a name to your zip folder, but you can change it once the zip folder is created.
+    - I recommend using ```.7z```.
 
-#### Unzipping
+#### Unzipping (Extracting)
+
+1. Right click the zip folder you want to unzip.
+2. Hover over ```7-Zip```.
+3. You have 2 options.
+  - Select ```Extract files...```.
+    - This will create a folder of the same name as the zip folder, with the zip folder's contents inside.  
+  - Select ```Extract Here```.
+    - This will extract the contents of the zip folder into the folder you are currently viewing, without creating any new folders.
+4. Click ```OK```.
 
 ## IP Address
 
