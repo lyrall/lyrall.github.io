@@ -2,6 +2,7 @@
 
 ## Content
 - [Required Reading](#Required-Reading)
+- [Basic Knowledge](#Basic-Knowledge)
 - [Deemix & Music Piracy](#Deemix-and-Music-Piracy)
 - [Installation](#Installation)
 - [Configuration](#Configuration)
@@ -13,8 +14,11 @@
 
 - Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - This is not important information but you should watch [this video](https://www.youtube.com/watch?v=KMZ4kkSVrBw&list=LL1Z2g1X7o2f6RYOIzyR_1UA&index=547) about music piracy history, I thought it was funny.
+
+## Basic Knowledge
+- "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
+- The most common [file extensions](bpl-guide.md#File-Extensions) for music are ```.mp3```, ```.flac```, ```.wav```, and ```.m4a```. There are many others, but it is unlikely you'll interact with them. Always look up file extensions you dont recognize.  
 
 ## Deemix and Music Piracy
 
