@@ -63,10 +63,13 @@ Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```.
 #### Zipping
 
 1. Select the files or group of files you want to zip. 
+   - You can select any group of files AND folders, all can be contained in a zip folder. 
 2. Right click the files.
 3. Hover over ```7-Zip```.
 4. - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
    - Select ```Add to "<>.7z"``` to compress all selected files into a ```.7z``` zip folder.
+      - I recommend using ```.7z```.
+      - I fjdkf
 
 #### Unzipping
 
