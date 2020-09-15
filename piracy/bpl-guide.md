@@ -7,9 +7,7 @@ This guide will be explaining a few processes that will increase your overall co
 - As with the rest of these guides, this will be very Windows 10 oriented. 
 - EVERYTHING here is important. If you do not understand these things first, you will have difficulty pirating.
 - I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
-- If you feel pretty comfortable with everything across all my guides, you should check out these comprehensive collections of pirate resources:
-    - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
-    - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)   
+
 ## Basic Terminology
 
 - Directory: File folder.
@@ -25,13 +23,14 @@ august.taylorswift | august.taylorswift.flac | Free Lossless Audio Codec | Audio
 
 As you can observe from these examples, a file extention always starts with a ```.```, and the example file extensions are ```.mkv ``` and ```.flac```. The presence of a ```.``` earlier in the file name, like in the second example, does not effect the file extension. 
 
-### Show File Extensions
+### Show File Extensions and Item Check Boxes
 
-By default, Windows' File Explorer does not display file extensions. To enable this (and please do):
+Being able to see file extensions and which files are currently selected will significantly reduce mistakes when working with files. To enable these (and please do):
 
 1. Open File Explorer.
 2. Click the ```View``` tab at the top.
-3. Check the box next to ```Show file extensions```.
+3. Check the box next to ```View file extensions```.
+4. Check the box next to ```Item check boxes```.
 
 ## Executable Files
 
@@ -39,7 +38,7 @@ An exactuable is an app file that runs on computers. Executables have a ```.exe`
 
 ## Zip Folders
 
-Note: The terms ```Zip Folder``` and ```File Archive``` are **interchangeable**.
+Note: The terms ```Zip Folder```, ```Zip File```, ```File Archive``` are **interchangeable**.
 
 You will encounter zip folders A LOT as a pirate. ***File archiving***, or "zipping" is when a group of files is combined into a single file, so that they can be stored and transferred as one. By "combining", I mean compression, which simply makes files more compact, smaller. File systems treat zip folders as singular files, despite their name. That is, until they are unzipped and the contained files are seperated again.
 
@@ -57,7 +56,13 @@ WinRAR is paid software, and is a tool for general zipping and unzipping purpose
 
 7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
 
-7-Zip adds several options to the menu that pops up when you right click on a file in File Explorer.
+### Viewing Zip Files
+
+Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```. You can select standard zip files in Windows 10 by simply double clicking them, but it is best practice to use the ```Open Archive``` option by default, to ensure support for non-standard zip files like ```.7z``` and ```.rar```. 
+
+### Zipping
+
+1. Select the files or group of files you want to zip. 
 
 ## IP Address
 
