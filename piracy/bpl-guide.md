@@ -63,6 +63,11 @@ Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```.
 ### Zipping
 
 1. Select the files or group of files you want to zip. 
+2. Right click the files.
+3. Hover over ```7-Zip```.
+4.
+  - FJdk
+  - dsjf
 
 ## IP Address
 
