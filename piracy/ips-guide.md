@@ -2,11 +2,11 @@
 
 ## Important Notes
 
-- As of now, this guide is very Windows-oriented. This should not be a huge issue, as most referenced tools have Linux and OS X varietes. 
+- As with the rest of these guides 
 - I have no affliiation to any of the services I recommend, this isn't an advertisment.
-- Some knowledge of internet safety and privacy is important for pirates. Though I will mention important aspects and tools in the first section of this guide, do more research on it yourself. A few great starting points are:
+- Internet privacy and safety is a bigger topic than I can get my head around. What I am laying out here are very basic tools that will keep you out of trouble as a pirate, but that's about it. I beg that you invest more time into the topic for yourself:
+    - [PrivacyTools](https://www.privacytools.io/) (Visit this site first!)
     - [r/Piracy wiki](https://www.reddit.com/r/Privacy/wiki/index)
-    - [PrivacyTools](https://www.privacytools.io/)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)
     - [PRISM ⚡ BREAK](https://prism-break.org/en/)
 
