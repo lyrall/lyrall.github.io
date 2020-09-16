@@ -8,7 +8,7 @@
 
 ## Basic Knowledge
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
-- The most common [file extensions](bpl-guide.md#File-Extensions) for music are ```.mp3```, ```.flac```, ```.wav```, and ```.m4a```. There are many others, but it is unlikely you'll interact with them. Always look up file extensions you dont recognize.  
+- The most common [file extensions](bpl-guide.md#File-Extensions) for music are ```.mp3```, ```.flac```, ```.wav```, ```.aac```, and ```.m4a```. There are many others, but it is unlikely you'll interact with them. Always look up file extensions you dont recognize.  
 - An audio file's ```kbps rate``` or ```bitrate``` the audio resolution. The higher the number of kilobytes per second (kbps), the closer in sound quality the audio file is to the original source — and the larger the file size.
 
 ## Deemix and Music Piracy
@@ -38,7 +38,7 @@ The only downside to Deemix is that Deezer does not host certain **extremely** o
 
 ## Configuration
 
-Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. **I highly recommend these ones. Setting options I do not mention are insignificant, and I do not recommend changing the defaults.**  
+Deemix needs to be configured a little before you start using it. First, upon first launching the app, go to the settings and paste your ```arl``` code into a box, allowing Deemix to access Deezer servers. After that, there are various settings you will want to look over. **I highly recommend these ones. I DO NOT recommend changing the defaults for settings I do not mention here.**  
 
 - **Download Path**: Type ```C:\Users\[youraccount]\Music``` into the box, but replace ```[youraccount]``` with the username for you computer. If somehow you don't know your computer username, pressing the Windows button and then clicking the profile button ```👤``` will display your username.
 - **Trackname template**: Type ```%artist% - %title%``` into the box.
@@ -104,5 +104,4 @@ Windows | iOS | Android
 
 ## Alternative Methods
 
-If for some reason you don't want to use Deemix (even though there plainly is NOT a better way to pirate music at this moment in time), there are still a few other methods I can hesitantly recommend.
-
+If for some reason you don't want to use Deemix (even though there plainly is NOT a better way to pirate music at this moment in time), there are still a few other methods I can hesitantly recommend. 
