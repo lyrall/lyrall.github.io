@@ -1,9 +1,8 @@
 # The Layman's Guide to Piracy
 
-There are enumerable methods, tools, guides, and masterlists for piracy floating around the web. But resources that are either not detailed enough, or are overwhelmingly comprehensive, are each inaccessible to young pirates. This is an attempt at a middle ground. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. These guides were written with the average person (who may only be interested in occasionally pirating specific things), and beginning pirates in mind. 
+There are enumerable methods, tools, guides, and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone wanting to start pirating, or even average people who only want to pirate occasionally for specific things.
 
-If you've read/followed these guides any number of times and can repeat them confidently, you should now have basic skills and understanding that will be useful for other methods of piracy. Though not necessary to simply get the job done, there is much more to piracy than what is laid out on this site. Here are a few extremely comprehensive resources if you're ready to move past the guides on this site:
+By the time you start feeling comfortable with the contents of these guides, you'll probably have enough knowledge and instruction-following skills to explore everything the pirate community has to offer. Here are a few extremely comprehensive resources to get you started:
   - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
   - [WAREZZ](https://warezz.now.sh/)
   - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
-
