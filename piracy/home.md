@@ -18,4 +18,5 @@ By the time you start feeling comfortable with the contents of these guides, you
   </a>
 </p>
 
-The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+To the extent possible under law, lyrall has waived all copyright and related or neighboring rights to this work.
+
