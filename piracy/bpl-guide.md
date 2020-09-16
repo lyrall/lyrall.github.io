@@ -130,9 +130,10 @@ This is a wash-rinse-repeat type of thing. It is tedious and requires management
 
 Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, and is how all file hosters such as MEGA work. But with torrenting, a different download protocol, there is no central server. Rather, pieces of files are stored accross a network of computers, consisting of all the people who have downloaded from the torrent. The technology behind it is a little complicated, but you dont't need to understand it to use it. This download protocol is not necessarily tied to piracy, but rather is popular among pirates. I am putting this info here because you can use torrenting to download any media type, however, I personally recommmend it's use for movies ONLY. 
 
-### Terminology and Etiquette
+### Base Knowledge, Terminology, and Etiquette
 
 - "Torrent" can be used as a noun or a verb. As a noun, a torrent is a file that you give to a torrent client, that then allows the torrent client to download the content associated with the torrent file. As a verb, a torrent refers to the act of downloading content using torrents. 
+- The file extension of torrent files is ```.torrent```.
 - A torrent client is a computer application for downloading and managing torrents. 
 - A magnet link is a different way of torrenting. Rather than downloading a torrent file to give to your torrent client, magnent links can be clicked in-browser, prompting your torrent client to open, and start the download.
 
