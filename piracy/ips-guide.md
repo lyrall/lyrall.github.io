@@ -1,16 +1,17 @@
 # Internet Privacy and Safety
 
-## Important Notes
+## Required Reading
 
-- As with the rest of these guides 
-- I have no affliiation to any of the services I recommend, this isn't an advertisment.
+- Check out my [Basic Pirate Literacy Guide](bpl-guide.md), it is the second pre-requisite guide of the set. 
+- As with the rest of these guides, this will be very Windows 10 oriented. 
 - Internet privacy and safety is a bigger topic than I can get my head around. What I am laying out here are very basic tools that will keep you out of trouble as a pirate, but that's about it. I beg that you invest more time into the topic for yourself:
     - [PrivacyTools](https://www.privacytools.io/) (Visit this site first!)
     - [r/Piracy wiki](https://www.reddit.com/r/Privacy/wiki/index)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)
     - [PRISM ⚡ BREAK](https://prism-break.org/en/)
+- If you learn better from videos, check out [this guide]() on securing your devices and internet traffic.
 
-As I'm sure you're aware, digital piracy of copyrighted material is illegal, to varying degrees depending on where you live. I highly recommend reading up on copyright enforcement in your country. But generally speaking, so long as you only intend to download and not upload content, and take precautionary measures, you will be golden. Copyright enforcement is sparce for end-users such as you and I, with the exception of torrenting. But you will be given proper warning about torrenting in my Movies and TV Piracy Guide.
+As I'm sure you're aware, digital piracy of copyrighted material is illegal, to varying degrees depending on where you live. I highly recommend reading up on copyright enforcement in your country. But generally speaking, so long as you only intend to download and not upload content, and take precautionary measures, you will be golden. Copyright enforcement is sparce for end-users such as you and I, with the exception of torrenting. But I give proper [warning about torrenting](bpl-guide.md#WARNING) in my Basic Pirate Literacy Guide.
 
 ## Ad-blocking
 
