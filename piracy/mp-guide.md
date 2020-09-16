@@ -1,15 +1,5 @@
 # Music Piracy Guide
 
-## Content
-- [Required Reading](#Required-Reading)
-- [Basic Knowledge](#Basic-Knowledge)
-- [Deemix & Music Piracy](#Deemix-and-Music-Piracy)
-- [Installation](#Installation)
-- [Configuration](#Configuration)
-- [Downloading with Deemix](#Downloading-with-Deemix)
-- [How to listen to your music](#How-to-listen-to-your-music)
-- [Altenative Methods](#Alternative-Methods)
-
 ## Required Reading
 
 - Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
@@ -19,6 +9,7 @@
 ## Basic Knowledge
 - "Tags" are descriptors attatched to audio files, to provide more info on them. Some examples of tags would be the ```year``` and ```artist``` of an album. 
 - The most common [file extensions](bpl-guide.md#File-Extensions) for music are ```.mp3```, ```.flac```, ```.wav```, and ```.m4a```. There are many others, but it is unlikely you'll interact with them. Always look up file extensions you dont recognize.  
+- An audio file's ```kbps rate``` or ```bitrate``` the audio resolution. The higher the number of kilobytes per second (kbps), the closer in sound quality the audio file is to the original source — and the larger the file size.
 
 ## Deemix and Music Piracy
 
