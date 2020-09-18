@@ -9,7 +9,7 @@
     - [r/Piracy wiki](https://www.reddit.com/r/Privacy/wiki/index)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)
     - [PRISM ⚡ BREAK](https://prism-break.org/en/)
-- If you learn better from videos, check out [this guide]() on securing your devices and internet traffic.
+- If you learn better from videos, and want a more comprehensive guide to internet privacy, check out [this guide](https://www.youtube.com/watch?v=jxeeKKfjb5o) on securing your devices and internet traffic.
 
 As I'm sure you're aware, digital piracy of copyrighted material is illegal, to varying degrees depending on where you live. I highly recommend reading up on copyright enforcement in your country. But generally speaking, so long as you only intend to download and not upload content, and take precautionary measures, you will be golden. Copyright enforcement is sparce for end-users such as you and I, with the exception of torrenting. But I give proper [warning about torrenting](bpl-guide.md#WARNING) in my Basic Pirate Literacy Guide.
 
