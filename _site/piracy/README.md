@@ -15,6 +15,16 @@ Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewa
 
 ## Contact
 
+- [Email](mailto:lyricallen67@protonmail.com]
+- [Twitter](https://twitter.com/lyr9c}
+- [Weebly](https://lyr9c.weebly.com/)
+
+## Disclaimer 
+
+All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, am not responsible for and in no way associated to any external links or their content except if I own the resource. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
+
+If you are a copyright owner or an agent thereof, and you believe that your work is accessible through this project in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/lyrall/lyrall.github.io/issues) to notify me.
+
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
