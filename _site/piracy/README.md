@@ -9,13 +9,13 @@ By the time you start feeling comfortable with the contents of these guides, you
  
 ## Contribute
 
-If you find a mistake anywhere on this site or in [this site's Github repository](https://github.com/lyrall/lyrall.github.io), you can create an issue [here](https://github.com/lyrall/lyrall.github.io/issues) by clicking ```New issue``` and describing the problem you've noticed. 
+If you find a mistake anywhere on this site or in [this site's Github repository](https://github.com/lyrall/lyrall.github.io), you can create an issue [here](https://github.com/lyrall/lyrall.github.io/issues) by clicking ```New issue``` and describing the problem you've noticed. Feel free to create an issue if you have suggestions or questions too.
 
 Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewards button in the location bar of your [Brave Browser](https://brave.com/).
 
 ## Contact
 
-- [Email](lyricallen67@protonmail.com)
+- [Email](mailto:lyricallen67@protonmail.com)
 - [Twitter](https://twitter.com/lyr9c)
 - [Weebly](https://lyr9c.weebly.com/)
 
