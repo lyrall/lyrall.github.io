@@ -21,7 +21,7 @@ Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewa
 
 ## Disclaimer 
 
-As stated, this is NOT a comprehensive guide to piracy, but rather specially curates and explains methods that would be useful and accessible to the target audience: beginner/casual pirates.
+As stated, this is NOT a comprehensive guide to piracy, but rather specially curated and explained methods that would be useful and accessible to the target audience: beginner/casual pirates.
 
 All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, am not responsible for and in no way associated to any external links or their content except if I own the resource. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
 
