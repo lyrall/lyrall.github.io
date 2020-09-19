@@ -15,7 +15,7 @@ Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewa
 
 ## Contact
 
-- [Email](mailto:lyricallen67@protonmail.com)
+- [Email](mailto:rr2300@pm.me)
 - [Twitter](https://twitter.com/lyr9c)
 - [Weebly](https://lyr9c.weebly.com/)
 
@@ -34,4 +34,4 @@ If you are a copyright owner or an agent thereof, and you believe that your work
   </a>
 </p>
 
-To the extent possible under law, lyrall has waived all copyright and related or neighboring rights to this work, and dedicates it to the world-wide public domain. 
+To the extent possible under law, r2300 has waived all copyright and related or neighboring rights to this work, and dedicates it to the world-wide public domain. 
