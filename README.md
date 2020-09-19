@@ -1,4 +1,4 @@
-# lyrall.github.io
+# r2300.github.io
 
 i have no idea what this is anymore. so far just a place to host my piracy guides.
 
