@@ -15,9 +15,9 @@ Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewa
 
 ## Contact
 
-- [Email](mailto:rr2300@pm.me)
-- [snahp.it Forums](https://forum.snahp.it/memberlist.php?mode=viewprofile&u=135388&sid=2069559d9d1ab63d7e2575c320519353)
+- Email: ```rr2300@pm.me```
 - [Weebly](https://lyr9c.weebly.com/)
+- [snahp.it Forums](https://forum.snahp.it/memberlist.php?mode=viewprofile&u=135388&sid=2069559d9d1ab63d7e2575c320519353)
 
 ## Disclaimer 
 
