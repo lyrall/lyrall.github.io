@@ -15,7 +15,7 @@ Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewa
 
 ## Contact
 
-- [Email](mailto:lyricallen67@protonmail.com]
+- [Email](\mailto:lyricallen67@protonmail.com]
 - [Twitter](https://twitter.com/lyr9c}
 - [Weebly](https://lyr9c.weebly.com/)
 
