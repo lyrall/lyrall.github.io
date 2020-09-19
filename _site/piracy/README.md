@@ -6,6 +6,12 @@ By the time you start feeling comfortable with the contents of these guides, you
   - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
   - [WAREZZ](https://warezz.now.sh/)
   - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+ 
+## Contribute
+
+If you find a mistake anywhere on this site or in [this site's Github repository](https://github.com/lyrall/lyrall.github.io), you can create an issue [here](https://github.com/lyrall/lyrall.github.io/issues) by clicking ```New issue``` and describing the problem you've noticed. 
+
+Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewards button in the location bar of your [Brave Browser](https://brave.com/).
 
 ## Contact
 
