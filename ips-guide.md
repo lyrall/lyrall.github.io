@@ -15,7 +15,7 @@ As I'm sure you're aware, digital piracy of copyrighted material is illegal, to 
 
 ## Ad-blocking
 
-I make do with the ad-blocker built into the [Brave browser](https://brave.com/), but I cannot recommend enough to you [uBlock Origin](https://github.com/gorhill/uBlock), a browser extension that can block ads. Installation instructions are within the link. It is very feature rich, and so if you are only looking to block ads, do not bother with the many configurations. After installing, it should be enabled by default.
+I make do with the ad-blocker built into the [Brave browser](https://brave.com/lpz423), but I cannot recommend enough to you [uBlock Origin](https://github.com/gorhill/uBlock), a browser extension that can block ads. Installation instructions are within the link. It is very feature rich, and so if you are only looking to block ads, do not bother with the many configurations. After installing, it should be enabled by default.
 
 ## Sandboxes and Virtual Machines
 
