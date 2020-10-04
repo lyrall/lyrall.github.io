@@ -1,5 +1,5 @@
 <head>  
-    <link rel="icon" href="https://raw.githubusercontent.com/r2300/r2300.github.io/master/docs/icons/favicon.ico?" type="image/x-icon">
+    <link rel="icon" href="r2300.github.io/docs/icons/favicon.ico?" type="image/x-icon">
 </head>
 
 # r2300 Guide to Piracy
