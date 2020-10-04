@@ -5,7 +5,7 @@ This guide will be explaining a few processes that will increase your overall co
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- EVERYTHING here is important, except the [torrenting](#Torrenting) section, which is an optional method.
+- EVERYTHING here is important, except the [torrenting](bpl-guide.md#Torrenting) section, which is an optional method.
 - I created this guide with the very tech-illiterate in mind, but still, piracy is generally an involved process. Take the time to really READ through this guide.
 
 ## Basic Terminology
