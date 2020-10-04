@@ -1,7 +1,3 @@
----
-permalink: /vpg-guide.html
----
-
 # Video Game Piracy Guide
 
 ## Required Reading
