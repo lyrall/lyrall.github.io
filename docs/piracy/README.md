@@ -1,6 +1,6 @@
 # r2300 Guide to Piracy
 
-There are innumerable methods, tools, guides, and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone wanting to start pirating, or even average people who only want to pirate occasionally for specific things.
+There are innumerable methods, tools, guides, and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone wanting to start pirating, or even average people who only want to pirate occasionally for specific things. And as the goals of these guides are accessibility, they will be heavily Windows-oriented. 
 
 By the time you start feeling comfortable with the contents of these guides, you'll probably have enough knowledge and instruction-following skills to begin exploring everything the pirate community has to offer. Here are a few extremely comprehensive resources to get you started:
   - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
@@ -9,7 +9,12 @@ By the time you start feeling comfortable with the contents of these guides, you
   
 ## Content
 
-- [Basic Pirate Literacy Guide](bpl-guide)
+- [Basic Pirate Literacy Guide](https://r2300.github.io/piracy/bpl-guide)
+- [Pirate Safety Guide](https://r2300.github.io/piracy/ps-guide)
+- [Music Piracy Guide](https://r2300.github.io/piracy/mp-guide)
+- [Movies and TV Piracy Guide](https://r2300.github.io/piracy/mtvp-guide)
+- [Software Piracy Guide](https://r2300.github.io/piracy/sp-guide)
+- [Video Game Piracy Guide](https://r2300.github.io/piracy/vpg-guide)
  
 ## Contribute
 
