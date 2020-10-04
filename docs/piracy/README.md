@@ -1,6 +1,7 @@
-<head>  
-    <link rel="icon" href="icons/favicon.ico" type="image/x-icon">
-</head>
+---
+layout: page
+title: r2300 Guide to Piracy
+permalink: /piracy
 
 # r2300 Guide to Piracy
 
