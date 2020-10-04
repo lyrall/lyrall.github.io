@@ -1,3 +1,7 @@
+<head>
+    <link rel="icon" href="https://raw.githubusercontent.com/r2300/r2300.github.io/master/docs/icons/favicon.ico" type="image/x-icon">
+</head>
+
 # r2300 Guide to Piracy
 
 There are innumerable methods, tools, guides, and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone wanting to start pirating, or even average people who only want to pirate occasionally for specific things. And as the goals of these guides are accessibility, they will be heavily Windows-oriented. 
