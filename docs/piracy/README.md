@@ -1,5 +1,5 @@
 ---
-permalink: /home.html
+permalink: /index.html
 ---
 
 # r2300 Guide to Piracy
