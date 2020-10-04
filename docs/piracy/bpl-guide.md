@@ -1,3 +1,7 @@
+---
+permalink: /bpl-guide.html
+---
+
 # Basic Pirate Literacy Guide
 
 This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. I'll explain terminology, file management, and transferable pirate skills. 
@@ -128,7 +132,7 @@ This is a wash-rinse-repeat type of thing. It is tedious and requires management
 
 ## Torrenting
 
-Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, and is how all file hosters such as MEGA work. But with torrenting, a different download protocol, there is no central server. Rather, pieces of files are stored accross a network of computers, consisting of all the people who have downloaded from the torrent. The technology behind it is a little complicated, but you dont't need to understand it to use it. This download protocol is not necessarily tied to piracy, but rather is popular among pirates. I am putting this info here because you can use torrenting to download any media type, however, I personally recommmend it's use for movies ONLY. 
+Typically, when you download anything off of the web, files are stored and distributed from one central server. That is called direct downloading, and is how all file hosters such as MEGA work. But with torrenting, a different download protocol, there is no central server. Rather, pieces of files are stored accross a network of computers, consisting of all the people who have downloaded from the torrent. The technology behind it is a little complicated, but you dont't need to understand it to use it. This download protocol was not created for piracy, it is just popular among pirates. I am putting this info here because you can use torrenting to download any media type, however, I personally recommmend it's use for movies ONLY. 
 
 ### Base Knowledge, Terminology, and Etiquette
 
