@@ -6,6 +6,7 @@ markdown: GFM
 
 plugins:
   - jekyll-relative-links
+	- jekyll-include-cache
 relative_links:
   enabled: true
   collections: true
@@ -18,3 +19,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
