@@ -1,10 +1,10 @@
-# Internet Privacy and Safety
+# Pirate Safety Guide
 
 ## Required Reading
 
 - Check out my [Basic Pirate Literacy Guide](bpl-guide.md), it is the second pre-requisite guide of the set. 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- Internet privacy and safety is a bigger topic than I can get my head around. **What I am laying out here are very basic tools that will keep you out of trouble as a pirate, but that's about it.** I beg that you invest more time into the topic for yourself:
+- Branching off from the topic of safety, is that of internet privacy. It is a bigger topic than I could cover. **What I am laying out here are very basic tools that will keep you out of trouble as a pirate, but that's about it.** I beg that you invest more time into the topic for yourself:
     - [PrivacyTools](https://www.privacytools.io/) (Visit this site first!)
     - [r/Piracy wiki](https://www.reddit.com/r/Privacy/wiki/index)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)

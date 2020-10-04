@@ -6,7 +6,7 @@ This guide will be explaining a few processes that will increase your overall co
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
 - EVERYTHING here is important, except the [torrenting](#Torrenting) section, which is an optional method.
-- I created this guide with the very tech-illiterate in mind. If you sit down, really have a good read of this guide, and still feel like you're reading a foreign language? Perhaps piracy just is not for you. Few exceptions in mind, piracy is always going to be an involved process.
+- I created this guide with the very tech-illiterate in mind, but still, piracy is generally an involved process. Take the time to really READ through this guide.
 
 ## Basic Terminology
 
@@ -116,7 +116,7 @@ You will see green progress bars fill up as your downloads go on. A green "Compl
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
-Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [IPS Guide](ips-guide.md) for more info about VPNs and my recommendations/warnings concerning them. Note that this is a very involved process, and may not be worth it to some people. 
+Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [Pirate Safety Guide](ps-guide.md) for more info about VPNs and my recommendations/warnings concerning them. Note that this is a very involved process, and may not be worth it to some people. 
 
 1. Though your downloads have been stopped, go ahead and click the stop button ```⬜```.
 2. Open up the VPN of your choice and activate it.
@@ -139,7 +139,7 @@ Typically, when you download anything off of the web, files are stored and distr
 
 ### WARNING
 
-Torrenting is a legacy method of pirating, and while still very popular globally, there is no one touting it as the best and most modern way to pirate. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complaint letters. The letters claim that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.](ips-guide.md#Virtual-Private-Networks-VPN) While **IT IS SAFE** to torrent **with a VPN**, I generally don't need it unless my usual sources don't have something specific I'm looking for. 
+Torrenting is a legacy method of pirating, and while still very popular globally, there is no one touting it as the best and most modern way to pirate. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complaint letters. The letters claim that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.](ps-guide.md#Virtual-Private-Networks-VPN) While **IT IS SAFE** to torrent **with a VPN**, I generally don't need it unless my usual sources don't have something specific I'm looking for. 
 
 Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you follow my instructions. 
 
