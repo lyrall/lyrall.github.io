@@ -1,3 +1,7 @@
+---
+permalink: /sp-guide.html
+---
+
 # Software Piracy Guide
 
 As the majoriy of people might only invest time into pirating Windows 10, Microsoft Office, and Adobe products, I will be covering how to pirate all of those in this guide. Of course there will be additional info about software piracy in general, but covering Win10, Microsoft Office, and Adobe piracy in greater detail will make this guide more useful for most people.
