@@ -1,4 +1,5 @@
 <head>
+    <title>r2300 Guide to Piracy</title>
     <link rel="icon" href="https://raw.githubusercontent.com/r2300/r2300.github.io/master/docs/icons/favicon.ico" type="image/x-icon">
 </head>
 
