@@ -11,7 +11,7 @@ By the time you start feeling comfortable with the contents of these guides, you
 
 If you find a mistake anywhere on this site or in [this site's Github repository](https://github.com/r2300/r2300.github.io), you can create an issue [here](https://github.com/r2300/r2300.github.io/issues) by clicking ```New Issue``` and describing the problem you've noticed. Feel free to create an issue if you have suggestions or questions too.
 
-Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewards button in the location bar of your [Brave Browser](https://brave.com/lpz423).
+Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewards button in the location bar of your [Brave Browser](https://brave.com/lpz423). This will work on [this site's Github repository](https://github.com/r2300/r2300.github.io) as well as the site itself.
 
 ## Contact
 
