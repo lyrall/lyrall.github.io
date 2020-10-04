@@ -1,5 +1,5 @@
 <head>  
-    <link rel="icon" href="icons/favicon.ico?" type="image/x-icon">
+    <link rel="icon" href="icons/favicon.ico" type="image/x-icon">
 </head>
 
 # r2300 Guide to Piracy
