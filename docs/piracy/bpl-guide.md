@@ -1,7 +1,3 @@
----
-permalink: /bpl-guide.html
----
-
 # Basic Pirate Literacy Guide
 
 This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. I'll explain terminology, file management, and transferable pirate skills. 
