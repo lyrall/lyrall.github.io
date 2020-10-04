@@ -1,6 +1,8 @@
-# Video Game Piracy Guide
+---
+permalink: /vpg-guide.html
+---
 
-## Content
+# Video Game Piracy Guide
 
 ## Required Reading
 - Check out my [Internet Privacy & Safety Guide](ips-guide.md) and [Basic Pirate Literacy Guide](bpl-guide.md) FIRST, it'll help you a lot. If there is a term you don't understand here, I have likely explained it in those prerequisite guides.
