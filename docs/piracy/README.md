@@ -1,6 +1,6 @@
 ---
 layout: page
-title: r2300 Guide to Piracy
+title: "r2300 Guide to Piracy"
 permalink: /piracy/
 ---
 
