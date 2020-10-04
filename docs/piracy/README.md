@@ -6,6 +6,10 @@ By the time you start feeling comfortable with the contents of these guides, you
   - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
   - [WAREZZ](https://warezz.now.sh/)
   - [Igglybuff's awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+  
+## Content
+
+- [Basic Pirate Literacy Guide](bpl-guide)
  
 ## Contribute
 
