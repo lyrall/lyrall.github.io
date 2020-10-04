@@ -1,3 +1,9 @@
+#Jekyll Configuration
+name: r2300
+description: piracy for the novice
+url: "https://r2300.github.io"
+markdown: GFM
+
 plugins:
   - jekyll-relative-links
 relative_links:
