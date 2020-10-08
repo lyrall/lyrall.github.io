@@ -19,8 +19,12 @@ By the time you start feeling comfortable with the contents of these guides, you
 - [Music Piracy Guide](https://r2300.github.io/piracy/mp-guide)
 - [Movies and TV Piracy Guide](https://r2300.github.io/piracy/mtvp-guide)
 - [Software Piracy Guide](https://r2300.github.io/piracy/sp-guide)
-- [Video Game Piracy Guide](https://r2300.github.io/piracy/vpg-guide)
- 
+- [Video Game Piracy Guide](https://r2300.github.io/piracy/vgp-guide)
+
+## Download Info
+
+When I recommed software throughout these guides, I offer links to download them, stored in my own mega.nz account. You can find them all [here](). I do this rather than linking to the download pages of official websites, beause often those websites force users to make a choice about which version they want (architecture, stable vs. beta, etc). That is unideal, given that these guides are suppose to be as accessible as possible, and not all prospective pirates know what those terms mean. I update the software as new versions are released and use them myself, so those who use my links rather than search for downloads on the web will have no malware issues. 
+
 ## Contribute
 
 If you find a mistake anywhere on this site or in [this site's Github repository](https://github.com/r2300/r2300.github.io), you can create an issue [here](https://github.com/r2300/r2300.github.io/issues) by clicking ```New Issue``` and describing the problem you've noticed. Feel free to create an issue if you have suggestions or questions too.
