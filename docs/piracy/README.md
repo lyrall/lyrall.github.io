@@ -3,9 +3,9 @@ title: "r2300 Guide to Piracy"
 permalink: /piracy/
 ---
 
-# r2300 Guide to Piracy (WORK IN PROGRESS)
+# r2300 Piracy Master Guide (WORK IN PROGRESS)
 
-There are innumerable guides and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone wanting to start pirating, or even average people who only want to pirate occasionally. As the goals of these guides are accessibility, they will be heavily Windows-oriented. 
+There are innumerable guides and masterlists for piracy floating around the web. While helpful, these often come in the form of long, comprehensive lists that cite resources beginner pirates don't know how to take advanage of. And so these guides are written with beginner pirates in mind. This will not be a long list of resources, but rather a write-up that will explain essential piracy skills and knowledge. Detailed enough that the tech-illiterate but determined can follow along, but only containing what you need to start pirating. It should help anyone that wants to start pirating, or even average people who only want to pirate occasionally. As the goals of these guides are accessibility, they will be heavily Windows-oriented. 
 
 By the time you start feeling comfortable with the contents of these guides, you'll probably have enough knowledge and instruction-following skills to begin exploring everything the pirate community has to offer. Here are a few extremely comprehensive resources to get you started:
   - [r/Piracy wiki](https://www.reddit.com/r/Piracy/wiki/index)
@@ -23,7 +23,7 @@ By the time you start feeling comfortable with the contents of these guides, you
 
 ## Download Info
 
-When I recommed software throughout these guides, I offer links to download them, stored in my own mega.nz account. You can find them all [here](). I do this rather than linking to the download pages of official websites, beause often those websites force users to make a choice about which version they want (architecture, stable vs. beta, etc). That is unideal, given that these guides are suppose to be as accessible as possible, and not all prospective pirates know what those terms mean. I update the software as new versions are released and use them myself, so those who use my links rather than search for downloads on the web will have no malware issues. 
+When I recommed software throughout these guides, I offer links to download them, stored in my own mega.nz account. You can find them all [here](https://mega.nz/folder/BJQXUa6I#2HCUUs1V0WT2O-KmU-kCjg). I do this rather than linking to the download pages of official websites, beause often those websites force users to make a choice about which version they want (architecture, stable vs. beta, etc). That is unideal, given that these guides are suppose to be as accessible as possible, and not all prospective pirates know what those terms mean. I update the software as new versions are released and use them myself, so those who use my links rather than search for downloads on the web will have no malware issues. 
 
 ## Contribute
 
@@ -31,10 +31,11 @@ If you find a mistake anywhere on this site or in [this site's Github repository
 
 Or, if you use Brave Rewards, you can tip me with BAT by clicking the Brave Rewards button in the location bar of your [Brave Browser](https://brave.com/lpz423).
 
+You can also tip Bitcoim (BTC) to this address: bc1quc44q3a2t2nnv4r2639m4p228y5fy3fxx452rm
+
 ## Contact
 
 - Email: ```rr2300@pm.me```
-- [Weebly](https://lyr9c.weebly.com/)
 - [snahp.it Forums](https://forum.snahp.it/memberlist.php?mode=viewprofile&u=135388&sid=2069559d9d1ab63d7e2575c320519353)
 
 ## Disclaimer 
