@@ -1,6 +1,6 @@
 # [r2300.github.io](https://r2300.github.io)
 
-i have no idea what this is anymore. so far just a place to host my piracy guides.
+i have no idea what this is anymore. mostly just a place to host my piracy guides.
 
 ## License
 
