@@ -13,9 +13,9 @@ As the majoriy of people might only invest time into pirating Windows 10, Micros
 
 Everything you'll need to download:
 
-- [Office Pro Plus 2019]() (ProPlus2019Retail.img): Application that installs Office Pro Plus 2019.
-- [C2R-R2V_12]() (C2R-R2V.cmd): Script that converts the license of the installed Office Pro Plus 2019, preparing it for KMS_VL_ALL.
-- [KMS_VL_ALL-40]() (Activate.cmd): Script that activates Microsoft products.
+- [Office Pro Plus 2019](https://mega.nz/file/hYAXEIaa#3snPan_H9FSDKGyDDB9Wr02KJMwbaNPtcVvteEwvF9Y) (ProPlus2019Retail.img): Application that installs Office Pro Plus 2019.
+- [C2R-R2V_12](https://mega.nz/file/tAYzAIgC#sDrXLE9LhJq9gfYkBg5-ES8ZP6kyeHxp6Ju-zYQfAZg) (C2R-R2V.cmd): Script that converts the license of the installed Office Pro Plus 2019, preparing it for KMS_VL_ALL.
+- [KMS_VL_ALL-40](https://mega.nz/file/YcJVEKJQ#aCq1HWnxYKH1-S4VgBD6mI8MjdKg8wah21n7i4jYKis) (Activate.cmd): Script that activates Microsoft products.
 
 ### BEFORE YOU START:
 
