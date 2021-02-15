@@ -23,7 +23,7 @@ Just downloaded pirated software or a game, and don't entirely trust the source 
 
 ### Sandboxes
 
-A sandbox creates an isolated environment on your computer. Running programs inside of one prevents the program from effecting other parts of your system. I recommend using [Sandboxie](https://www.sandboxie.com/DownloadSandboxie). After installation, using it is as simple as finding the program you want to run sandboxed, right clicking it, and hitting "Run Sandboxed".
+A sandbox creates an isolated environment on your computer. Running programs inside of one prevents the program from effecting other parts of your system. I recommend using [Sandboxie](https://mega.nz/file/hNAXQCqb#mPZ9tL-MSMkvyuj74GVqYWWqxKrP0h-qsu7KBDzP4o0). After installation, using it is as simple as finding the program you want to run sandboxed, right clicking it, and hitting "Run Sandboxed".
 
 ### Virutal Machines
 
@@ -35,10 +35,7 @@ A virtual machine can run a second, virtual computer within your real computer. 
 
 ## Virtual Private Networks (VPN)
 
-From Wikipedia:
-> ["A Virtual Private Network, or VPN is a set of technologies which are used to link computers to create a private network. Another network is used to carry the data, which is encrypted."](https://simple.wikipedia.org/wiki/Virtual_private_network)
-
-But that's a little technical for some people. What you need to know, is that a VPN can protect your location and identity from sites and tools you use, by changing your [IP Address](https://simple.wikipedia.org/wiki/IP_address). While it sounds like a godsend, it's crucial to remember that there is no such thing as complete anonymity on the internet. Because your VPN provider can still see your data, a VPN is only as secure as it's provider is trustworthy. Despite it's insecurities, VPNs can still be helpful and even necessary in specific situations. Namely while torrenting, more on that [here](bpl-guide.md#torrenting). Please review [this information](https://www.privacytools.io/providers/vpn/#info) about VPNs before purchasing one or discounting them altogether. 
+A VPN can protect your location and identity from sites and tools you use, by changing your [IP Address](bpl-guide#ip-address). While it sounds like a godsend, it's crucial to remember that there is no such thing as complete anonymity on the internet. Because your VPN provider can still see your data, a VPN is only as secure as it's provider is trustworthy. Despite it's insecurities, VPNs can still be helpful and even necessary in specific situations. Namely while torrenting, more on that [here](bpl-guide.md#torrenting). Please review [this information](https://www.privacytools.io/providers/vpn/#info) about VPNs before purchasing one or discounting them altogether. 
 
 If you decide a VPN would be useful for you, please purchase one. Free VPN providers are significantly more likely to dishonor no-log policies and sell your data. Refer to That One Privacy Guy's [VPN comparison chart](https://thatoneprivacysite.net/#simle-vpn-comparison) when choosing one. Once you've purchased a VPN and installed the application for it, use is usually as simple as clicking 1 button to enable it. Personally, I recommend [ProtonVPN](https://protonvpn.com).
 
