@@ -1,11 +1,11 @@
 # Basic Pirate Literacy Guide
 
-This guide will be explaining a few processes that will increase your overall computer literacy, as would be useful specifically for piracy. I'll explain terminology, file management, and transferable pirate skills. 
+This guide will be explaining a few processes that will increase your overall computer literacy, as would be specifically for piracy. I'll explain terminology, file management, and transferable pirate skills. 
 
 ## Important Notes
 
 - As with the rest of these guides, this will be very Windows 10 oriented. 
-- EVERYTHING here is important, except the [torrenting](#torrenting) section, which is an optional method.
+- EVERYTHING here is important, **except** the [torrenting](#torrenting) section, which is an optional method.
 - I created this guide with the very tech-illiterate in mind, but still, piracy is generally an involved process. Take the time to really READ through this guide.
 
 ## Basic Terminology
@@ -15,12 +15,12 @@ This guide will be explaining a few processes that will increase your overall co
 
 ## File Extensions
 
-File extensions are a label at the end of all file names, which mark what type of file one is. They consist of a ```.```, followed by an abbreviation for the type of file.
+File extensions are labels at the end of all file names, which display the file type of a file. They consist of a ```.```, followed by an abbreviation for the type of file.
 
-File name WITHOUT visible file extension | File name WITH visibile file extension | File Type | Media Type
+File name WITHOUT visible file extension | File name WITH visibile file extension | File Extension | Media Type
 -----------------------------------------|----------------------------------------|-----------|-----------
-spongebobsquarepants-s03e19 | spongebobsquarepants-s03e19.mkv | Matroska Multimedia Container | Video
-august.taylorswift | august.taylorswift.flac | Free Lossless Audio Codec | Audio
+spongebobsquarepants-s03e19 | spongebobsquarepants-s03e19.mkv | ```.mkv``` (Matroska Multimedia Container) | Video
+august.taylorswift | august.taylorswift.flac | ```.flac``` (Free Lossless Audio Codec) | Audio
 
 As you can observe from these examples, a file extention always starts with a ```.```, and the example file extensions are ```.mkv ``` and ```.flac```. The presence of a ```.``` earlier in the file name, like in the second example, does not effect the file extension. 
 
@@ -35,7 +35,7 @@ Being able to see file extensions and which files are currently selected will si
 
 ## Executable Files
 
-An exactuable is an app file that runs on computers. Executables have a ```.exe``` file extension. Executables are generally safe to run if you know where they came from. But it is not uncommon for people to take advantage of those who know nothing of file extensions, and trick them into running an executable with viruses. So be wary of these files when pirating. If you intended to download a video or audio clip, and instead get a file with ```.exe``` at the end, DELETE IT. Unless it's the product of a mistake you made, it is almost certainly a virus. Never run executables that you don't trust. In general, if you dont recognize a file extension, look it up to make sure it is the media type you intended to download. For example, video files will almost always have ```.mp4``` and ```.mkv``` file extensions, NEVER ```.exe```. If you are pirating a videogame or software, an executable is what you SHOULD be getting, just make sure you trust it's source.
+An exactuable is an app file that runs on computers. Executables have a ```.exe``` file extension. Executables are generally safe to run if you know where they came from. But it is not uncommon for people to take advantage of those who know nothing of file extensions, and trick them into running an executable with viruses. So be wary of these files when pirating. If you intended to download a video or audio clip, and instead get a file with ```.exe``` at the end, DELETE IT. It is almost certainly a virus. Never run executables that you don't trust. In general, if you dont recognize a file extension, look it up to make sure it is the media type you intended to download. For example, video files will almost always have ```.mp4```, ```.mkv```, ```.m4a```, etc. file extensions, NEVER ```.exe```. If you are pirating a videogame or software, an executable is what you SHOULD be getting, just make sure you trust it's source.
 
 ## Zip Folders
 
@@ -45,7 +45,7 @@ You will encounter zip folders A LOT as a pirate. ***File archiving***, or "zipp
 
 The common types of zip folders can be indentified by their file extension. These are all zip folders, regardless of their different file extensions. Their different file extensions are indicative of a specific method of compression used to create the zip folder, each method having seperate origins.
 
-Common Types of Zip Folder | Source
+Common Types of Zip Folders | Source
 ----------------------|------------
 .zip | Basic format, default on most operating systems
 .rar | Created by [WinRAR](https://www.rarlab.com/), paid software
@@ -53,13 +53,13 @@ Common Types of Zip Folder | Source
 
 ### 7-Zip and WinRAR
 
-WinRAR is paid software, and is a tool for general zipping and unzipping purposes. RAR zip folders can only be properly **created** by WinRAR software, but can be unzipped with most other zip folder management applications. 7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use. Please download it [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
+WinRAR is paid software, and is a tool for general zipping and unzipping purposes. RAR zip folders can only be properly **created** by WinRAR software, but can be unzipped with most other zip folder management applications. 7-Zip, like WinRAR, is a computer program for creating, viewing, and unzipping zip folders. The difference is that 7-Zip IS superior. It's free and easy to use, whereas RAR technology is becoming obsolete. Please download 7-Zip [here](https://mega.nz/file/xYREDATB#Ft19APie0V79WkZHh7UAX0oT5_RWLz8y4eH5EE_YwnI), as you WILL encounter zip folders as a pirate. To install, just open the file and follow the on screen installation instructions. Here's a quick reference to use it:
 
 #### Viewing the Contents of Zip Folders
 
-Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```. You can select standard zip files in Windows 10 by simply double clicking them, but it is best practice to use the ```Open Archive``` option by default, to ensure support for non-standard zip files like ```.7z``` and ```.rar```. 
+Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```. You can select standard zip files by simply double clicking them, but it is best practice to use the ```Open Archive``` option by default, to ensure support for non-standard zip files like ```.7z``` and ```.rar```. 
 
-#### Zipping
+#### Zipping (Add to archive / archiving)
 
 1. Select the files or group of files you want to zip. 
    - You can select any group of files AND folders, all can be contained in a zip folder. 
@@ -68,7 +68,7 @@ Right click the zip file, hover over ```7-Zip```, and select ```Open Archive```.
 4. You have 2 options.
   - Select ```Add to archive...``` to compress all selected files into a ```.zip``` zip folder.
   - Select ```Add to "<Name>.7z"``` to compress all selected files into a ```.7z``` zip folder.
-    - \<Name\> here is a placeholder. For you, that space will display the name of the [parent directory](#Basic-Knowledge), or one of the files you are zipping. This is 7-Zip's attempt at giving a name to your zip folder, but you can change it once the zip folder is created.
+    - \<Name\> here is a placeholder. For you, that space will display the name of the [parent directory](#Basic-Terminology), or one of the files you are zipping. This is 7-Zip's attempt at giving a name to your zip folder, but you can change it once the zip folder is created.
     - I recommend using ```.7z```.
 
 #### Unzipping (Extracting)
@@ -88,11 +88,11 @@ An IP address is very similar to a regular postal address. While a postal addres
 
 ## File Hosters
 
-File hosters have many names, such as cloud service, cloud, cloud hoster, file sharer, file sharing site, P2P site, etc. Any variation of these things is referring to the same thing, a service that stores files on their own computers, that can be accessed from anywhere. Because these file hosters allow users to not only store, but share files with others, they are used to by pirates to share content. The most well known example is Google Drive, other contendors being Onedrive, Box, Dropbox, Mediafire, etc. 
+File hosters have many names, such as cloud service, cloud, cloud hoster, file sharer, file sharing site, P2P site, etc. Any variation of these things is referring to the same thing, a service that stores files on their own computers, that can be accessed from anywhere. Because these file hosters allow users to not only store, but share files with others, they are used by pirates to share content. The most well known example is Google Drive, other contendors being Onedrive, Box, Dropbox, Mediafire, etc. 
 
 ### MEGA
 
-[MEGA](https://mega.nz) is the most popular file hoster among more experienced pirates. This is becaue of MEGA's end-to-end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
+[MEGA](https://mega.nz) is a popular file hoster among pirates. This is becaue of MEGA's end-to-end encryption, which means that no one can access stored content except for those with the link key. This secure-by-design security restricts even the MEGA company themselves from seeing your files, meaning that pirated content is much less likely to be discovered and removed from the site. Many of the tools, methods, and sites I reference through these guides will use MEGA, and so you should have some understanding of it specifically. 
 
 A mega link, or link key, is a url that contains the key (kind of like a password) for a file or folder stored on MEGA. 
 
@@ -112,11 +112,11 @@ MegaDownloader is a download manager for MEGA. It is generally faster than downl
 6. ```Start download``` and ```Create directory``` are enabled by default. I recommend keeping it that way.
 7. Click ```Add links```.
 
-You will see green progress bars fill up as your downloads go on. A green "Complete" and full progress bars will tell you that you downloads have finished. Right click on the name of any download and select ```Clean completed``` to clear out all finished downloads. 
+You will see green progress bars fill up as your downloads complete. A green "Complete" and full progress bars will tell you that your downloads have finished. Right click on the name of any download and select ```Clean completed``` to clear out all finished downloads. 
 
 #### Bypass MEGA download restrictions with MegaDownloader and a VPN
 
-Should you be using MegaDownloader and your download comes to a hault, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [Pirate Safety Guide](ps-guide.md) for more info about VPNs and my recommendations/warnings concerning them. Note that this is a very involved process, and may not be worth it to some people. 
+Should you be using MegaDownloader and your download comes to a halt, it is likely because MEGA has temporarily restricted downloads for your computer. They are able to identify you and your excess downloads by your IP address. To bypass this, you need to make your IP address appear different, which is the function of a VPN. Check out my [Pirate Safety Guide](ps-guide.md#virtual-private-networks-vpn) for more info about VPNs and my recommendations/warnings concerning them. Note that this is a very involved process, and may not be worth it to some people. 
 
 1. Though your downloads have been stopped, go ahead and click the stop button ```⬜```.
 2. Open up the VPN of your choice and activate it.
@@ -141,7 +141,7 @@ Typically, when you download anything off of the web, files are stored and distr
 
 Torrenting is a legacy method of pirating, and while still very popular globally, there is no one touting it as the best and most modern way to pirate. Due to how torrenting works, with each torrent is a public list of all the IP addresses that interacted with the torrent. Because this list is so public, copyright owners of popular and current TV shows, movies, music, and video games will often sift through these IP addresses, locate the owners of said IP addresses, and send them complaint letters. The letters claim that the copyright violators owe a fine, or worse. This issue is easily circumvented by using a VPN, which obscures one's IP address. [Read more about VPNs here.](ps-guide.md#Virtual-Private-Networks-VPN) While **IT IS SAFE** to torrent **with a VPN**, I generally don't need it unless my usual sources don't have something specific I'm looking for. 
 
-Do not let the special case of torrenting scare you from pirating, as this is literally the ONLY way you could ever face a consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you follow my instructions. 
+Do not let the special case of torrenting scare you from pirating, as this is virtually the only way you could risk real consequence for pirating. And even as is, it is an easily solved issue. All other methods are safe, if you follow my instructions. 
 
 ### qBittorrent
 
